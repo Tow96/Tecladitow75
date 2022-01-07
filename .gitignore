@@ -1,0 +1,17 @@
+# Global ------------------------------------------------------------------------
+*.log
+*.zip
+
+# Excel currently open
+~*.xlsx
+
+# Files produced by KiCad -------------------------------------------------------
+
+*-bak
+fp-info-cache
+*.erc
+Assembly/PCB/Output
+
+# Files produced by LibreCad -----------------------------------------------------
+
+*.dxf~
