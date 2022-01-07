@@ -117,8 +117,17 @@ P 1300 1850
 F 0 "P1" H 1407 2717 50  0000 C CNN
 F 1 "USB_C_Plug_USB2.0" H 1407 2626 50  0000 C CNN
 F 2 "LCSC:FEMALE-USB-C_C2894898" H 1450 1850 50  0001 C CNN
-F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 1450 1850 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2109071830_HCTL-HC-TYPE-C-16P-01B_C2894898.pdf" H 1450 1850 50  0001 C CNN
 F 4 "C2894898" H 1300 1850 50  0001 C CNN "LCSC"
+F 5 "SMD" H 1300 1850 50  0001 C CNN "Type"
+F 6 "1 Surface Mount 16 Female Type-C SMD USB Connectors ROHS" H 1300 1850 50  0001 C CNN "Description"
+F 7 "0.57" H 1300 1850 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/USB-Connectors_HCTL-HC-TYPE-C-16P-01B_C2894898.html" H 1300 1850 50  0001 C CNN "Link"
+F 9 "HCTL" H 1300 1850 50  0001 C CNN "Manufaturer"
+F 10 "HC-TYPE-C-16P-01B" H 1300 1850 50  0001 C CNN "MfgPart"
+F 11 "5" H 1300 1850 50  0001 C CNN "Minimum"
+F 12 "5" H 1300 1850 50  0001 C CNN "Multiples"
+F 13 "SMD" H 1300 1850 50  0001 C CNN "Package"
 	1    1300 1850
 	1    0    0    -1  
 $EndComp
@@ -160,8 +169,17 @@ P 6250 4300
 F 0 "R4" V 6150 4300 50  0000 C CNN
 F 1 "5.1K" V 6250 4300 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 6180 4300 50  0001 C CNN
-F 3 "~" H 6250 4300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2110260030_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf" H 6250 4300 50  0001 C CNN
 F 4 "C25905" V 6250 4300 50  0001 C CNN "LCSC"
+F 5 "SMD" H 6250 4300 50  0001 C CNN "Type"
+F 6 "±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 6250 4300 50  0001 C CNN "Description"
+F 7 "0.07" H 6250 4300 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html" H 6250 4300 50  0001 C CNN "Link"
+F 9 "UNI-ROYAL(Uniroyal Elec)" H 6250 4300 50  0001 C CNN "Manufaturer"
+F 10 "0402WGF5101TCE" H 6250 4300 50  0001 C CNN "MfgPart"
+F 11 "100" H 6250 4300 50  0001 C CNN "Minimum"
+F 12 "100" H 6250 4300 50  0001 C CNN "Multiples"
+F 13 "0402" H 6250 4300 50  0001 C CNN "Package"
 	1    6250 4300
 	0    1    1    0   
 $EndComp
@@ -185,8 +203,17 @@ P 2150 1650
 F 0 "R2" V 2050 1650 50  0000 C CNN
 F 1 "5.1K" V 2150 1650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2080 1650 50  0001 C CNN
-F 3 "~" H 2150 1650 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2110260030_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf" H 2150 1650 50  0001 C CNN
 F 4 "C25905" V 2150 1650 50  0001 C CNN "LCSC"
+F 5 "SMD" H 2150 1650 50  0001 C CNN "Type"
+F 6 "±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 2150 1650 50  0001 C CNN "Description"
+F 7 "0.07" H 2150 1650 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html" H 2150 1650 50  0001 C CNN "Link"
+F 9 "UNI-ROYAL(Uniroyal Elec)" H 2150 1650 50  0001 C CNN "Manufaturer"
+F 10 "0402WGF5101TCE" H 2150 1650 50  0001 C CNN "MfgPart"
+F 11 "100" H 2150 1650 50  0001 C CNN "Minimum"
+F 12 "100" H 2150 1650 50  0001 C CNN "Multiples"
+F 13 "0402" H 2150 1650 50  0001 C CNN "Package"
 	1    2150 1650
 	0    1    1    0   
 $EndComp
@@ -197,8 +224,17 @@ P 2150 1350
 F 0 "R1" V 2050 1350 50  0000 C CNN
 F 1 "5.1K" V 2150 1350 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 2080 1350 50  0001 C CNN
-F 3 "~" H 2150 1350 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2110260030_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf" H 2150 1350 50  0001 C CNN
 F 4 "C25905" V 2150 1350 50  0001 C CNN "LCSC"
+F 5 "SMD" H 2150 1350 50  0001 C CNN "Type"
+F 6 "±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 2150 1350 50  0001 C CNN "Description"
+F 7 "0.07" H 2150 1350 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html" H 2150 1350 50  0001 C CNN "Link"
+F 9 "UNI-ROYAL(Uniroyal Elec)" H 2150 1350 50  0001 C CNN "Manufaturer"
+F 10 "0402WGF5101TCE" H 2150 1350 50  0001 C CNN "MfgPart"
+F 11 "100" H 2150 1350 50  0001 C CNN "Minimum"
+F 12 "100" H 2150 1350 50  0001 C CNN "Multiples"
+F 13 "0402" H 2150 1350 50  0001 C CNN "Package"
 	1    2150 1350
 	0    1    1    0   
 $EndComp
@@ -211,8 +247,17 @@ P 4800 2050
 F 0 "R3" V 4700 2050 50  0000 C CNN
 F 1 "5.1K" V 4800 2050 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4730 2050 50  0001 C CNN
-F 3 "~" H 4800 2050 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2110260030_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.pdf" H 4800 2050 50  0001 C CNN
 F 4 "C25905" V 4800 2050 50  0001 C CNN "LCSC"
+F 5 "SMD" H 4800 2050 50  0001 C CNN "Type"
+F 6 "±1% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 5.1kΩ 0402 Chip Resistor - Surface Mount ROHS" H 4800 2050 50  0001 C CNN "Description"
+F 7 "0.07" H 4800 2050 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html" H 4800 2050 50  0001 C CNN "Link"
+F 9 "UNI-ROYAL(Uniroyal Elec)" H 4800 2050 50  0001 C CNN "Manufaturer"
+F 10 "0402WGF5101TCE" H 4800 2050 50  0001 C CNN "MfgPart"
+F 11 "100" H 4800 2050 50  0001 C CNN "Minimum"
+F 12 "100" H 4800 2050 50  0001 C CNN "Multiples"
+F 13 "0402" H 4800 2050 50  0001 C CNN "Package"
 	1    4800 2050
 	1    0    0    -1  
 $EndComp
@@ -239,7 +284,19 @@ P 4550 2200
 F 0 "JP1" H 4550 2343 50  0000 C CNN
 F 1 "Jumper_2_Open" H 4550 2344 50  0001 C CNN
 F 2 "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical" H 4550 2200 50  0001 C CNN
-F 3 "~" H 4550 2200 50  0001 C CNN
+F 3 "-" H 4550 2200 50  0001 C CNN
+F 4 "DNP" H 4550 2200 50  0001 C CNN "Population"
+F 5 "-" H 4550 2200 50  0001 C CNN "Description"
+F 6 "-" H 4550 2200 50  0001 C CNN "LCSC"
+F 7 "-" H 4550 2200 50  0001 C CNN "Link"
+F 8 "-" H 4550 2200 50  0001 C CNN "Manufaturer"
+F 9 "-" H 4550 2200 50  0001 C CNN "MfgPart"
+F 10 "-" H 4550 2200 50  0001 C CNN "Minimum"
+F 11 "-" H 4550 2200 50  0001 C CNN "Multiples"
+F 12 "" H 4550 2200 50  0001 C CNN "Note"
+F 13 "-" H 4550 2200 50  0001 C CNN "Package"
+F 14 "-" H 4550 2200 50  0001 C CNN "Type"
+F 15 "-" H 4550 2200 50  0001 C CNN "Unit Price"
 	1    4550 2200
 	1    0    0    -1  
 $EndComp
@@ -263,8 +320,17 @@ P 4150 2500
 F 0 "Y1" V 4100 2650 50  0000 L CNN
 F 1 "16MHz" V 4200 2650 50  0000 L CNN
 F 2 "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm" H 4150 2500 50  0001 C CNN
-F 3 "~" H 4150 2500 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2103291133_Yangxing-Tech-X322516MLB4SI_C13738.pdf" H 4150 2500 50  0001 C CNN
 F 4 "C13738" V 4150 2500 50  0001 C CNN "LCSC"
+F 5 "SMD" H 4150 2500 50  0001 C CNN "Type"
+F 6 "16MHz SMD Crystal Resonator 9pF ±10ppm ±30ppm -40℃~+85℃ SMD3225-4P Crystals ROHS" H 4150 2500 50  0001 C CNN "Description"
+F 7 "0.44" H 4150 2500 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Crystals_Yangxing-Tech-X322516MLB4SI_C13738.html" H 4150 2500 50  0001 C CNN "Link"
+F 9 "Yangxing Tech" H 4150 2500 50  0001 C CNN "Manufaturer"
+F 10 "X322516MLB4SI" H 4150 2500 50  0001 C CNN "MfgPart"
+F 11 "5" H 4150 2500 50  0001 C CNN "Minimum"
+F 12 "5" H 4150 2500 50  0001 C CNN "Multiples"
+F 13 "SMD3225-4P" H 4150 2500 50  0001 C CNN "Package"
 	1    4150 2500
 	0    1    1    0   
 $EndComp
@@ -319,10 +385,20 @@ L Device:C C8
 U 1 1 61CA0E7C
 P 4000 2700
 F 0 "C8" V 4050 2800 50  0000 C CNN
-F 1 "22pf" V 4150 2800 50  0000 C CNN
+F 1 "22pF" V 4150 2800 50  0000 C CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4038 2550 50  0001 C CNN
-F 3 "~" H 4000 2700 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1811141710_FH-Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.pdf" H 4000 2700 50  0001 C CNN
 F 4 "C1555" V 4000 2700 50  0001 C CNN "LCSC"
+F 5 "SMD" H 4000 2700 50  0001 C CNN "Type"
+F 6 "50V 22pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 4000 2700 50  0001 C CNN "Description"
+F 7 "0.11" H 4000 2700 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.html" H 4000 2700 50  0001 C CNN "Link"
+F 9 "FH(Guangdong Fenghua Advanced Tech)" H 4000 2700 50  0001 C CNN "Manufaturer"
+F 10 "0402CG220J500NT" H 4000 2700 50  0001 C CNN "MfgPart"
+F 11 "100" H 4000 2700 50  0001 C CNN "Minimum"
+F 12 "100" H 4000 2700 50  0001 C CNN "Multiples"
+F 13 "0402" H 4000 2700 50  0001 C CNN "Package"
+F 14 "0.0011" H 4000 2700 50  0001 C CNN "Unit Price"
 	1    4000 2700
 	0    1    1    0   
 $EndComp
@@ -334,8 +410,18 @@ P 4500 3650
 F 0 "C9" H 4615 3696 50  0000 L CNN
 F 1 "1uF" H 4615 3605 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4538 3500 50  0001 C CNN
-F 3 "~" H 4500 3650 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810201530_Taiyo-Yuden-EMK105BJ105KV-F_C92755.pdf" H 4500 3650 50  0001 C CNN
 F 4 "C92755" H 4500 3650 50  0001 C CNN "LCSC"
+F 5 "SMD" H 4500 3650 50  0001 C CNN "Type"
+F 6 "16V 1uF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 4500 3650 50  0001 C CNN "Description"
+F 7 "0.26" H 4500 3650 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-EMK105BJ105KV-F_C92755.html" H 4500 3650 50  0001 C CNN "Link"
+F 9 "Taiyo Yuden" H 4500 3650 50  0001 C CNN "Manufaturer"
+F 10 "EMK105BJ105KV-F" H 4500 3650 50  0001 C CNN "MfgPart"
+F 11 "50" H 4500 3650 50  0001 C CNN "Minimum"
+F 12 "50" H 4500 3650 50  0001 C CNN "Multiples"
+F 13 "0402" H 4500 3650 50  0001 C CNN "Package"
+F 14 "0.0052" H 4500 3650 50  0001 C CNN "Unit Price"
 	1    4500 3650
 	1    0    0    -1  
 $EndComp
@@ -359,8 +445,18 @@ P 5800 1700
 F 0 "C2" H 5915 1746 50  0000 L CNN
 F 1 "100nF" H 5915 1655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 5838 1550 50  0001 C CNN
-F 3 "~" H 5800 1700 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 5800 1700 50  0001 C CNN
 F 4 "C106204" H 5800 1700 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 5800 1700 50  0001 C CNN "Description"
+F 6 "YAGEO" H 5800 1700 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 5800 1700 50  0001 C CNN "MfgPart"
+F 8 "0402" H 5800 1700 50  0001 C CNN "Package"
+F 9 "SMD" H 5800 1700 50  0001 C CNN "Type"
+F 10 "0.10" H 5800 1700 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 5800 1700 50  0001 C CNN "Link"
+F 12 "100" H 5800 1700 50  0001 C CNN "Minimum"
+F 13 "100" H 5800 1700 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 5800 1700 50  0001 C CNN "Unit Price"
 	1    5800 1700
 	1    0    0    -1  
 $EndComp
@@ -371,8 +467,18 @@ P 6250 1700
 F 0 "C3" H 6365 1746 50  0000 L CNN
 F 1 "100nF" H 6365 1655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 6288 1550 50  0001 C CNN
-F 3 "~" H 6250 1700 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 6250 1700 50  0001 C CNN
 F 4 "C106204" H 6250 1700 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 6250 1700 50  0001 C CNN "Description"
+F 6 "YAGEO" H 6250 1700 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 6250 1700 50  0001 C CNN "MfgPart"
+F 8 "0402" H 6250 1700 50  0001 C CNN "Package"
+F 9 "SMD" H 6250 1700 50  0001 C CNN "Type"
+F 10 "0.10" H 6250 1700 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 6250 1700 50  0001 C CNN "Link"
+F 12 "100" H 6250 1700 50  0001 C CNN "Minimum"
+F 13 "100" H 6250 1700 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 6250 1700 50  0001 C CNN "Unit Price"
 	1    6250 1700
 	1    0    0    -1  
 $EndComp
@@ -383,8 +489,18 @@ P 6700 1700
 F 0 "C4" H 6815 1746 50  0000 L CNN
 F 1 "100nF" H 6815 1655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 6738 1550 50  0001 C CNN
-F 3 "~" H 6700 1700 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 6700 1700 50  0001 C CNN
 F 4 "C106204" H 6700 1700 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 6700 1700 50  0001 C CNN "Description"
+F 6 "YAGEO" H 6700 1700 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 6700 1700 50  0001 C CNN "MfgPart"
+F 8 "0402" H 6700 1700 50  0001 C CNN "Package"
+F 9 "SMD" H 6700 1700 50  0001 C CNN "Type"
+F 10 "0.10" H 6700 1700 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 6700 1700 50  0001 C CNN "Link"
+F 12 "100" H 6700 1700 50  0001 C CNN "Minimum"
+F 13 "100" H 6700 1700 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 6700 1700 50  0001 C CNN "Unit Price"
 	1    6700 1700
 	1    0    0    -1  
 $EndComp
@@ -395,8 +511,18 @@ P 5350 1700
 F 0 "C1" H 5465 1746 50  0000 L CNN
 F 1 "100nF" H 5465 1655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 5388 1550 50  0001 C CNN
-F 3 "~" H 5350 1700 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 5350 1700 50  0001 C CNN
 F 4 "C106204" H 5350 1700 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 5350 1700 50  0001 C CNN "Description"
+F 6 "YAGEO" H 5350 1700 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 5350 1700 50  0001 C CNN "MfgPart"
+F 8 "0402" H 5350 1700 50  0001 C CNN "Package"
+F 9 "SMD" H 5350 1700 50  0001 C CNN "Type"
+F 10 "0.10" H 5350 1700 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 5350 1700 50  0001 C CNN "Link"
+F 12 "100" H 5350 1700 50  0001 C CNN "Minimum"
+F 13 "100" H 5350 1700 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 5350 1700 50  0001 C CNN "Unit Price"
 	1    5350 1700
 	1    0    0    -1  
 $EndComp
@@ -444,8 +570,17 @@ P 6250 4900
 F 0 "R5" V 6150 4900 50  0000 C CNN
 F 1 "300" V 6250 4900 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 6180 4900 50  0001 C CNN
-F 3 "~" H 6250 4900 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/2110252230_UNI-ROYAL-Uniroyal-Elec-0402WGJ0301TCE_C25159.pdf" H 6250 4900 50  0001 C CNN
 F 4 "C25159" V 6250 4900 50  0001 C CNN "LCSC"
+F 5 "SMD" H 6250 4900 50  0001 C CNN "Type"
+F 6 "±5% 1/16W Thick Film Resistors 50V ±100ppm/℃ -55℃~+155℃ 300Ω 0402 Chip Resistor - Surface Mount ROHS" H 6250 4900 50  0001 C CNN "Description"
+F 7 "0.07" H 6250 4900 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGJ0301TCE_C25159.html" H 6250 4900 50  0001 C CNN "Link"
+F 9 "UNI-ROYAL(Uniroyal Elec)" H 6250 4900 50  0001 C CNN "Manufaturer"
+F 10 "0402WGJ0301TCE" H 6250 4900 50  0001 C CNN "MfgPart"
+F 11 "100" H 6250 4900 50  0001 C CNN "Minimum"
+F 12 "100" H 6250 4900 50  0001 C CNN "Multiples"
+F 13 "0402" H 6250 4900 50  0001 C CNN "Package"
 	1    6250 4900
 	0    1    1    0   
 $EndComp
@@ -472,8 +607,18 @@ P 7150 1700
 F 0 "C5" H 7265 1746 50  0000 L CNN
 F 1 "100nF" H 7265 1655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7188 1550 50  0001 C CNN
-F 3 "~" H 7150 1700 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 7150 1700 50  0001 C CNN
 F 4 "C106204" H 7150 1700 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 7150 1700 50  0001 C CNN "Description"
+F 6 "YAGEO" H 7150 1700 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 7150 1700 50  0001 C CNN "MfgPart"
+F 8 "0402" H 7150 1700 50  0001 C CNN "Package"
+F 9 "SMD" H 7150 1700 50  0001 C CNN "Type"
+F 10 "0.10" H 7150 1700 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 7150 1700 50  0001 C CNN "Link"
+F 12 "100" H 7150 1700 50  0001 C CNN "Minimum"
+F 13 "100" H 7150 1700 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 7150 1700 50  0001 C CNN "Unit Price"
 	1    7150 1700
 	1    0    0    -1  
 $EndComp
@@ -490,8 +635,18 @@ P 7600 1700
 F 0 "C6" H 7715 1746 50  0000 L CNN
 F 1 "100nF" H 7715 1655 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 7638 1550 50  0001 C CNN
-F 3 "~" H 7600 1700 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 7600 1700 50  0001 C CNN
 F 4 "C106204" H 7600 1700 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 7600 1700 50  0001 C CNN "Description"
+F 6 "YAGEO" H 7600 1700 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 7600 1700 50  0001 C CNN "MfgPart"
+F 8 "0402" H 7600 1700 50  0001 C CNN "Package"
+F 9 "SMD" H 7600 1700 50  0001 C CNN "Type"
+F 10 "0.10" H 7600 1700 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 7600 1700 50  0001 C CNN "Link"
+F 12 "100" H 7600 1700 50  0001 C CNN "Minimum"
+F 13 "100" H 7600 1700 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 7600 1700 50  0001 C CNN "Unit Price"
 	1    7600 1700
 	1    0    0    -1  
 $EndComp
@@ -512,8 +667,18 @@ P 4000 2300
 F 0 "C7" V 3850 2150 50  0000 L CNN
 F 1 "22pF" V 3950 2050 50  0000 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 4038 2150 50  0001 C CNN
-F 3 "~" H 4000 2300 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1811141710_FH-Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.pdf" H 4000 2300 50  0001 C CNN
 F 4 "C1555" V 4000 2300 50  0001 C CNN "LCSC"
+F 5 "SMD" H 4000 2300 50  0001 C CNN "Type"
+F 6 "50V 22pF C0G ±5% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 4000 2300 50  0001 C CNN "Description"
+F 7 "0.11" H 4000 2300 50  0001 C CNN "ExtPrice"
+F 8 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.html" H 4000 2300 50  0001 C CNN "Link"
+F 9 "FH(Guangdong Fenghua Advanced Tech)" H 4000 2300 50  0001 C CNN "Manufaturer"
+F 10 "0402CG220J500NT" H 4000 2300 50  0001 C CNN "MfgPart"
+F 11 "100" H 4000 2300 50  0001 C CNN "Minimum"
+F 12 "100" H 4000 2300 50  0001 C CNN "Multiples"
+F 13 "0402" H 4000 2300 50  0001 C CNN "Package"
+F 14 "0.0011" H 4000 2300 50  0001 C CNN "Unit Price"
 	1    4000 2300
 	0    1    1    0   
 $EndComp
@@ -556,7 +721,19 @@ P 950 7150
 F 0 "H1" H 1050 7153 50  0000 L CNN
 F 1 "MountingHole" H 1050 7108 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 950 7150 50  0001 C CNN
-F 3 "~" H 950 7150 50  0001 C CNN
+F 3 "-" H 950 7150 50  0001 C CNN
+F 4 "DNP" H 950 7150 50  0001 C CNN "Population"
+F 5 "-" H 950 7150 50  0001 C CNN "Description"
+F 6 "-" H 950 7150 50  0001 C CNN "LCSC"
+F 7 "-" H 950 7150 50  0001 C CNN "Link"
+F 8 "-" H 950 7150 50  0001 C CNN "Manufaturer"
+F 9 "-" H 950 7150 50  0001 C CNN "MfgPart"
+F 10 "-" H 950 7150 50  0001 C CNN "Minimum"
+F 11 "-" H 950 7150 50  0001 C CNN "Multiples"
+F 12 "" H 950 7150 50  0001 C CNN "Note"
+F 13 "-" H 950 7150 50  0001 C CNN "Package"
+F 14 "-" H 950 7150 50  0001 C CNN "Type"
+F 15 "-" H 950 7150 50  0001 C CNN "Unit Price"
 	1    950  7150
 	1    0    0    -1  
 $EndComp
@@ -567,7 +744,19 @@ P 1250 7150
 F 0 "H2" H 1350 7153 50  0000 L CNN
 F 1 "MountingHole" H 1350 7108 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 1250 7150 50  0001 C CNN
-F 3 "~" H 1250 7150 50  0001 C CNN
+F 3 "-" H 1250 7150 50  0001 C CNN
+F 4 "DNP" H 1250 7150 50  0001 C CNN "Population"
+F 5 "-" H 1250 7150 50  0001 C CNN "Description"
+F 6 "-" H 1250 7150 50  0001 C CNN "LCSC"
+F 7 "-" H 1250 7150 50  0001 C CNN "Link"
+F 8 "-" H 1250 7150 50  0001 C CNN "Manufaturer"
+F 9 "-" H 1250 7150 50  0001 C CNN "MfgPart"
+F 10 "-" H 1250 7150 50  0001 C CNN "Minimum"
+F 11 "-" H 1250 7150 50  0001 C CNN "Multiples"
+F 12 "" H 1250 7150 50  0001 C CNN "Note"
+F 13 "-" H 1250 7150 50  0001 C CNN "Package"
+F 14 "-" H 1250 7150 50  0001 C CNN "Type"
+F 15 "-" H 1250 7150 50  0001 C CNN "Unit Price"
 	1    1250 7150
 	1    0    0    -1  
 $EndComp
@@ -578,7 +767,19 @@ P 1550 7150
 F 0 "H3" H 1650 7153 50  0000 L CNN
 F 1 "MountingHole" H 1650 7108 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 1550 7150 50  0001 C CNN
-F 3 "~" H 1550 7150 50  0001 C CNN
+F 3 "-" H 1550 7150 50  0001 C CNN
+F 4 "DNP" H 1550 7150 50  0001 C CNN "Population"
+F 5 "-" H 1550 7150 50  0001 C CNN "Description"
+F 6 "-" H 1550 7150 50  0001 C CNN "LCSC"
+F 7 "-" H 1550 7150 50  0001 C CNN "Link"
+F 8 "-" H 1550 7150 50  0001 C CNN "Manufaturer"
+F 9 "-" H 1550 7150 50  0001 C CNN "MfgPart"
+F 10 "-" H 1550 7150 50  0001 C CNN "Minimum"
+F 11 "-" H 1550 7150 50  0001 C CNN "Multiples"
+F 12 "" H 1550 7150 50  0001 C CNN "Note"
+F 13 "-" H 1550 7150 50  0001 C CNN "Package"
+F 14 "-" H 1550 7150 50  0001 C CNN "Type"
+F 15 "-" H 1550 7150 50  0001 C CNN "Unit Price"
 	1    1550 7150
 	1    0    0    -1  
 $EndComp
@@ -589,7 +790,19 @@ P 1850 7150
 F 0 "H4" H 1950 7153 50  0000 L CNN
 F 1 "MountingHole" H 1950 7108 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 1850 7150 50  0001 C CNN
-F 3 "~" H 1850 7150 50  0001 C CNN
+F 3 "-" H 1850 7150 50  0001 C CNN
+F 4 "DNP" H 1850 7150 50  0001 C CNN "Population"
+F 5 "-" H 1850 7150 50  0001 C CNN "Description"
+F 6 "-" H 1850 7150 50  0001 C CNN "LCSC"
+F 7 "-" H 1850 7150 50  0001 C CNN "Link"
+F 8 "-" H 1850 7150 50  0001 C CNN "Manufaturer"
+F 9 "-" H 1850 7150 50  0001 C CNN "MfgPart"
+F 10 "-" H 1850 7150 50  0001 C CNN "Minimum"
+F 11 "-" H 1850 7150 50  0001 C CNN "Multiples"
+F 12 "" H 1850 7150 50  0001 C CNN "Note"
+F 13 "-" H 1850 7150 50  0001 C CNN "Package"
+F 14 "-" H 1850 7150 50  0001 C CNN "Type"
+F 15 "-" H 1850 7150 50  0001 C CNN "Unit Price"
 	1    1850 7150
 	1    0    0    -1  
 $EndComp
@@ -600,7 +813,19 @@ P 2150 7150
 F 0 "H5" H 2250 7153 50  0000 L CNN
 F 1 "MountingHole" H 2250 7108 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 2150 7150 50  0001 C CNN
-F 3 "~" H 2150 7150 50  0001 C CNN
+F 3 "-" H 2150 7150 50  0001 C CNN
+F 4 "DNP" H 2150 7150 50  0001 C CNN "Population"
+F 5 "-" H 2150 7150 50  0001 C CNN "Description"
+F 6 "-" H 2150 7150 50  0001 C CNN "LCSC"
+F 7 "-" H 2150 7150 50  0001 C CNN "Link"
+F 8 "-" H 2150 7150 50  0001 C CNN "Manufaturer"
+F 9 "-" H 2150 7150 50  0001 C CNN "MfgPart"
+F 10 "-" H 2150 7150 50  0001 C CNN "Minimum"
+F 11 "-" H 2150 7150 50  0001 C CNN "Multiples"
+F 12 "" H 2150 7150 50  0001 C CNN "Note"
+F 13 "-" H 2150 7150 50  0001 C CNN "Package"
+F 14 "-" H 2150 7150 50  0001 C CNN "Type"
+F 15 "-" H 2150 7150 50  0001 C CNN "Unit Price"
 	1    2150 7150
 	1    0    0    -1  
 $EndComp
@@ -611,7 +836,19 @@ P 2450 7150
 F 0 "H6" H 2550 7153 50  0000 L CNN
 F 1 "MountingHole" H 2550 7108 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 2450 7150 50  0001 C CNN
-F 3 "~" H 2450 7150 50  0001 C CNN
+F 3 "-" H 2450 7150 50  0001 C CNN
+F 4 "DNP" H 2450 7150 50  0001 C CNN "Population"
+F 5 "-" H 2450 7150 50  0001 C CNN "Description"
+F 6 "-" H 2450 7150 50  0001 C CNN "LCSC"
+F 7 "-" H 2450 7150 50  0001 C CNN "Link"
+F 8 "-" H 2450 7150 50  0001 C CNN "Manufaturer"
+F 9 "-" H 2450 7150 50  0001 C CNN "MfgPart"
+F 10 "-" H 2450 7150 50  0001 C CNN "Minimum"
+F 11 "-" H 2450 7150 50  0001 C CNN "Multiples"
+F 12 "" H 2450 7150 50  0001 C CNN "Note"
+F 13 "-" H 2450 7150 50  0001 C CNN "Package"
+F 14 "-" H 2450 7150 50  0001 C CNN "Type"
+F 15 "-" H 2450 7150 50  0001 C CNN "Unit Price"
 	1    2450 7150
 	1    0    0    -1  
 $EndComp
@@ -622,7 +859,19 @@ P 2150 7450
 F 0 "H11" H 2250 7453 50  0000 L CNN
 F 1 "MountingHole" H 2250 7408 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 2150 7450 50  0001 C CNN
-F 3 "~" H 2150 7450 50  0001 C CNN
+F 3 "-" H 2150 7450 50  0001 C CNN
+F 4 "DNP" H 2150 7450 50  0001 C CNN "Population"
+F 5 "-" H 2150 7450 50  0001 C CNN "Description"
+F 6 "-" H 2150 7450 50  0001 C CNN "LCSC"
+F 7 "-" H 2150 7450 50  0001 C CNN "Link"
+F 8 "-" H 2150 7450 50  0001 C CNN "Manufaturer"
+F 9 "-" H 2150 7450 50  0001 C CNN "MfgPart"
+F 10 "-" H 2150 7450 50  0001 C CNN "Minimum"
+F 11 "-" H 2150 7450 50  0001 C CNN "Multiples"
+F 12 "" H 2150 7450 50  0001 C CNN "Note"
+F 13 "-" H 2150 7450 50  0001 C CNN "Package"
+F 14 "-" H 2150 7450 50  0001 C CNN "Type"
+F 15 "-" H 2150 7450 50  0001 C CNN "Unit Price"
 	1    2150 7450
 	-1   0    0    1   
 $EndComp
@@ -633,7 +882,19 @@ P 1850 7450
 F 0 "H10" H 1950 7453 50  0000 L CNN
 F 1 "MountingHole" H 1950 7408 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 1850 7450 50  0001 C CNN
-F 3 "~" H 1850 7450 50  0001 C CNN
+F 3 "-" H 1850 7450 50  0001 C CNN
+F 4 "DNP" H 1850 7450 50  0001 C CNN "Population"
+F 5 "-" H 1850 7450 50  0001 C CNN "Description"
+F 6 "-" H 1850 7450 50  0001 C CNN "LCSC"
+F 7 "-" H 1850 7450 50  0001 C CNN "Link"
+F 8 "-" H 1850 7450 50  0001 C CNN "Manufaturer"
+F 9 "-" H 1850 7450 50  0001 C CNN "MfgPart"
+F 10 "-" H 1850 7450 50  0001 C CNN "Minimum"
+F 11 "-" H 1850 7450 50  0001 C CNN "Multiples"
+F 12 "" H 1850 7450 50  0001 C CNN "Note"
+F 13 "-" H 1850 7450 50  0001 C CNN "Package"
+F 14 "-" H 1850 7450 50  0001 C CNN "Type"
+F 15 "-" H 1850 7450 50  0001 C CNN "Unit Price"
 	1    1850 7450
 	-1   0    0    1   
 $EndComp
@@ -644,7 +905,19 @@ P 1550 7450
 F 0 "H9" H 1650 7453 50  0000 L CNN
 F 1 "MountingHole" H 1650 7408 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 1550 7450 50  0001 C CNN
-F 3 "~" H 1550 7450 50  0001 C CNN
+F 3 "-" H 1550 7450 50  0001 C CNN
+F 4 "DNP" H 1550 7450 50  0001 C CNN "Population"
+F 5 "-" H 1550 7450 50  0001 C CNN "Description"
+F 6 "-" H 1550 7450 50  0001 C CNN "LCSC"
+F 7 "-" H 1550 7450 50  0001 C CNN "Link"
+F 8 "-" H 1550 7450 50  0001 C CNN "Manufaturer"
+F 9 "-" H 1550 7450 50  0001 C CNN "MfgPart"
+F 10 "-" H 1550 7450 50  0001 C CNN "Minimum"
+F 11 "-" H 1550 7450 50  0001 C CNN "Multiples"
+F 12 "" H 1550 7450 50  0001 C CNN "Note"
+F 13 "-" H 1550 7450 50  0001 C CNN "Package"
+F 14 "-" H 1550 7450 50  0001 C CNN "Type"
+F 15 "-" H 1550 7450 50  0001 C CNN "Unit Price"
 	1    1550 7450
 	-1   0    0    1   
 $EndComp
@@ -655,7 +928,19 @@ P 1250 7450
 F 0 "H8" H 1350 7453 50  0000 L CNN
 F 1 "MountingHole" H 1350 7408 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 1250 7450 50  0001 C CNN
-F 3 "~" H 1250 7450 50  0001 C CNN
+F 3 "-" H 1250 7450 50  0001 C CNN
+F 4 "DNP" H 1250 7450 50  0001 C CNN "Population"
+F 5 "-" H 1250 7450 50  0001 C CNN "Description"
+F 6 "-" H 1250 7450 50  0001 C CNN "LCSC"
+F 7 "-" H 1250 7450 50  0001 C CNN "Link"
+F 8 "-" H 1250 7450 50  0001 C CNN "Manufaturer"
+F 9 "-" H 1250 7450 50  0001 C CNN "MfgPart"
+F 10 "-" H 1250 7450 50  0001 C CNN "Minimum"
+F 11 "-" H 1250 7450 50  0001 C CNN "Multiples"
+F 12 "" H 1250 7450 50  0001 C CNN "Note"
+F 13 "-" H 1250 7450 50  0001 C CNN "Package"
+F 14 "-" H 1250 7450 50  0001 C CNN "Type"
+F 15 "-" H 1250 7450 50  0001 C CNN "Unit Price"
 	1    1250 7450
 	-1   0    0    1   
 $EndComp
@@ -666,7 +951,19 @@ P 950 7450
 F 0 "H7" H 1050 7453 50  0000 L CNN
 F 1 "MountingHole" H 1050 7408 50  0001 L CNN
 F 2 "MountingHole:MountingHole_2.7mm_M2.5_DIN965_Pad" H 950 7450 50  0001 C CNN
-F 3 "~" H 950 7450 50  0001 C CNN
+F 3 "-" H 950 7450 50  0001 C CNN
+F 4 "DNP" H 950 7450 50  0001 C CNN "Population"
+F 5 "-" H 950 7450 50  0001 C CNN "Description"
+F 6 "-" H 950 7450 50  0001 C CNN "LCSC"
+F 7 "-" H 950 7450 50  0001 C CNN "Link"
+F 8 "-" H 950 7450 50  0001 C CNN "Manufaturer"
+F 9 "-" H 950 7450 50  0001 C CNN "MfgPart"
+F 10 "-" H 950 7450 50  0001 C CNN "Minimum"
+F 11 "-" H 950 7450 50  0001 C CNN "Multiples"
+F 12 "" H 950 7450 50  0001 C CNN "Note"
+F 13 "-" H 950 7450 50  0001 C CNN "Package"
+F 14 "-" H 950 7450 50  0001 C CNN "Type"
+F 15 "-" H 950 7450 50  0001 C CNN "Unit Price"
 	1    950  7450
 	-1   0    0    1   
 $EndComp
@@ -929,6 +1226,16 @@ F 0 "U1" H 5500 1750 50  0000 C CNN
 F 1 "ATmega32U4-MU" H 5500 1650 50  0000 C CNN
 F 2 "Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm" H 5500 3700 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 5500 3700 50  0001 C CNN
+F 4 "SMD" H 5500 3700 50  0001 C CNN "Type"
+F 5 "16MHz AVR 2.7V ~ 5.5V QFN-44_7x7x05P ATMEL & AVR ROHS" H 5500 3700 50  0001 C CNN "Description"
+F 6 "9.36" H 5500 3700 50  0001 C CNN "ExtPrice"
+F 7 "C112161" H 5500 3700 50  0001 C CNN "LCSC"
+F 8 "https://lcsc.com/product-detail/ATMEL-AVR_Microchip-Tech-ATMEGA32U4-MU_C112161.html" H 5500 3700 50  0001 C CNN "Link"
+F 9 "Microchip Tech" H 5500 3700 50  0001 C CNN "Manufaturer"
+F 10 "ATMEGA32U4-MU" H 5500 3700 50  0001 C CNN "MfgPart"
+F 11 "1" H 5500 3700 50  0001 C CNN "Minimum"
+F 12 "1" H 5500 3700 50  0001 C CNN "Multiples"
+F 13 "QFN-44_7x7x05P" H 5500 3700 50  0001 C CNN "Package"
 	1    5500 3700
 	1    0    0    -1  
 $EndComp
@@ -941,7 +1248,18 @@ AR Path="/624B3DF4" Ref="TP23"  Part="1"
 F 0 "TP23" V 6100 2650 50  0000 C CNN
 F 1 "TestPoint" V 6204 2472 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 6300 2400 50  0001 C CNN
-F 3 "~" H 6300 2400 50  0001 C CNN
+F 3 "-" H 6300 2400 50  0001 C CNN
+F 4 "DNP" H 6100 2400 50  0001 C CNN "Population"
+F 5 "-" H 6100 2400 50  0001 C CNN "Type"
+F 6 "-" H 6100 2400 50  0001 C CNN "Description"
+F 7 "-" H 6100 2400 50  0001 C CNN "LCSC"
+F 8 "-" H 6100 2400 50  0001 C CNN "Link"
+F 9 "-" H 6100 2400 50  0001 C CNN "Manufaturer"
+F 10 "-" H 6100 2400 50  0001 C CNN "MfgPart"
+F 11 "-" H 6100 2400 50  0001 C CNN "Minimum"
+F 12 "-" H 6100 2400 50  0001 C CNN "Multiples"
+F 13 "" H 6100 2400 50  0001 C CNN "Note"
+F 14 "-" H 6100 2400 50  0001 C CNN "Package"
 	1    6100 2400
 	0    1    1    0   
 $EndComp
@@ -954,7 +1272,18 @@ AR Path="/624B9B64" Ref="TP24"  Part="1"
 F 0 "TP24" V 6100 2750 50  0000 C CNN
 F 1 "TestPoint" V 6204 2572 50  0001 C CNN
 F 2 "TestPoint:TestPoint_Pad_D1.5mm" H 6300 2500 50  0001 C CNN
-F 3 "~" H 6300 2500 50  0001 C CNN
+F 3 "-" H 6300 2500 50  0001 C CNN
+F 4 "DNP" H 6100 2500 50  0001 C CNN "Population"
+F 5 "-" H 6100 2500 50  0001 C CNN "Type"
+F 6 "-" H 6100 2500 50  0001 C CNN "Description"
+F 7 "-" H 6100 2500 50  0001 C CNN "LCSC"
+F 8 "-" H 6100 2500 50  0001 C CNN "Link"
+F 9 "-" H 6100 2500 50  0001 C CNN "Manufaturer"
+F 10 "-" H 6100 2500 50  0001 C CNN "MfgPart"
+F 11 "-" H 6100 2500 50  0001 C CNN "Minimum"
+F 12 "-" H 6100 2500 50  0001 C CNN "Multiples"
+F 13 "" H 6100 2500 50  0001 C CNN "Note"
+F 14 "-" H 6100 2500 50  0001 C CNN "Package"
 	1    6100 2500
 	0    1    1    0   
 $EndComp
@@ -965,7 +1294,19 @@ P 3650 7300
 F 0 "FID1" H 3735 7346 50  0000 L CNN
 F 1 "Fiducial" H 3735 7255 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.75mm_Mask2.25mm" H 3650 7300 50  0001 C CNN
-F 3 "~" H 3650 7300 50  0001 C CNN
+F 3 "-" H 3650 7300 50  0001 C CNN
+F 4 "DNP" H 3650 7300 50  0001 C CNN "Population"
+F 5 "-" H 3650 7300 50  0001 C CNN "Description"
+F 6 "-" H 3650 7300 50  0001 C CNN "LCSC"
+F 7 "-" H 3650 7300 50  0001 C CNN "Link"
+F 8 "-" H 3650 7300 50  0001 C CNN "Manufaturer"
+F 9 "-" H 3650 7300 50  0001 C CNN "MfgPart"
+F 10 "-" H 3650 7300 50  0001 C CNN "Minimum"
+F 11 "-" H 3650 7300 50  0001 C CNN "Multiples"
+F 12 "" H 3650 7300 50  0001 C CNN "Note"
+F 13 "-" H 3650 7300 50  0001 C CNN "Package"
+F 14 "-" H 3650 7300 50  0001 C CNN "Type"
+F 15 "-" H 3650 7300 50  0001 C CNN "Unit Price"
 	1    3650 7300
 	1    0    0    -1  
 $EndComp
@@ -976,7 +1317,19 @@ P 4100 7300
 F 0 "FID2" H 4185 7346 50  0000 L CNN
 F 1 "Fiducial" H 4185 7255 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.75mm_Mask2.25mm" H 4100 7300 50  0001 C CNN
-F 3 "~" H 4100 7300 50  0001 C CNN
+F 3 "-" H 4100 7300 50  0001 C CNN
+F 4 "DNP" H 4100 7300 50  0001 C CNN "Population"
+F 5 "-" H 4100 7300 50  0001 C CNN "Description"
+F 6 "-" H 4100 7300 50  0001 C CNN "LCSC"
+F 7 "-" H 4100 7300 50  0001 C CNN "Link"
+F 8 "-" H 4100 7300 50  0001 C CNN "Manufaturer"
+F 9 "-" H 4100 7300 50  0001 C CNN "MfgPart"
+F 10 "-" H 4100 7300 50  0001 C CNN "Minimum"
+F 11 "-" H 4100 7300 50  0001 C CNN "Multiples"
+F 12 "" H 4100 7300 50  0001 C CNN "Note"
+F 13 "-" H 4100 7300 50  0001 C CNN "Package"
+F 14 "-" H 4100 7300 50  0001 C CNN "Type"
+F 15 "-" H 4100 7300 50  0001 C CNN "Unit Price"
 	1    4100 7300
 	1    0    0    -1  
 $EndComp
@@ -987,7 +1340,19 @@ P 4550 7300
 F 0 "FID3" H 4635 7346 50  0000 L CNN
 F 1 "Fiducial" H 4635 7255 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.75mm_Mask2.25mm" H 4550 7300 50  0001 C CNN
-F 3 "~" H 4550 7300 50  0001 C CNN
+F 3 "-" H 4550 7300 50  0001 C CNN
+F 4 "DNP" H 4550 7300 50  0001 C CNN "Population"
+F 5 "-" H 4550 7300 50  0001 C CNN "Description"
+F 6 "-" H 4550 7300 50  0001 C CNN "LCSC"
+F 7 "-" H 4550 7300 50  0001 C CNN "Link"
+F 8 "-" H 4550 7300 50  0001 C CNN "Manufaturer"
+F 9 "-" H 4550 7300 50  0001 C CNN "MfgPart"
+F 10 "-" H 4550 7300 50  0001 C CNN "Minimum"
+F 11 "-" H 4550 7300 50  0001 C CNN "Multiples"
+F 12 "" H 4550 7300 50  0001 C CNN "Note"
+F 13 "-" H 4550 7300 50  0001 C CNN "Package"
+F 14 "-" H 4550 7300 50  0001 C CNN "Type"
+F 15 "-" H 4550 7300 50  0001 C CNN "Unit Price"
 	1    4550 7300
 	1    0    0    -1  
 $EndComp
@@ -998,7 +1363,19 @@ P 5000 7300
 F 0 "FID4" H 5085 7346 50  0000 L CNN
 F 1 "Fiducial" H 5085 7255 50  0000 L CNN
 F 2 "Fiducial:Fiducial_0.75mm_Mask2.25mm" H 5000 7300 50  0001 C CNN
-F 3 "~" H 5000 7300 50  0001 C CNN
+F 3 "-" H 5000 7300 50  0001 C CNN
+F 4 "DNP" H 5000 7300 50  0001 C CNN "Population"
+F 5 "-" H 5000 7300 50  0001 C CNN "Description"
+F 6 "-" H 5000 7300 50  0001 C CNN "LCSC"
+F 7 "-" H 5000 7300 50  0001 C CNN "Link"
+F 8 "-" H 5000 7300 50  0001 C CNN "Manufaturer"
+F 9 "-" H 5000 7300 50  0001 C CNN "MfgPart"
+F 10 "-" H 5000 7300 50  0001 C CNN "Minimum"
+F 11 "-" H 5000 7300 50  0001 C CNN "Multiples"
+F 12 "" H 5000 7300 50  0001 C CNN "Note"
+F 13 "-" H 5000 7300 50  0001 C CNN "Package"
+F 14 "-" H 5000 7300 50  0001 C CNN "Type"
+F 15 "-" H 5000 7300 50  0001 C CNN "Unit Price"
 	1    5000 7300
 	1    0    0    -1  
 $EndComp

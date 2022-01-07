@@ -23,6 +23,7 @@ F 0 "D101" H 8400 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 8694 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8450 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8500 1875 50  0001 L TNN
+F 4 "SMD" H 8400 2250 50  0001 C CNN "Type"
 	1    8400 2250
 	1    0    0    -1  
 $EndComp
@@ -36,6 +37,7 @@ F 0 "D115" H 7600 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7894 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7650 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7700 2425 50  0001 L TNN
+F 4 "SMD" H 7600 2800 50  0001 C CNN "Type"
 	1    7600 2800
 	-1   0    0    -1  
 $EndComp
@@ -49,6 +51,7 @@ F 0 "D113" H 6700 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6994 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6750 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6800 2425 50  0001 L TNN
+F 4 "SMD" H 6700 2800 50  0001 C CNN "Type"
 	1    6700 2800
 	-1   0    0    -1  
 $EndComp
@@ -62,6 +65,7 @@ F 0 "D112" H 6250 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6544 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6300 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 2425 50  0001 L TNN
+F 4 "SMD" H 6250 2800 50  0001 C CNN "Type"
 	1    6250 2800
 	-1   0    0    -1  
 $EndComp
@@ -75,6 +79,7 @@ F 0 "D110" H 5350 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5644 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5400 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 2425 50  0001 L TNN
+F 4 "SMD" H 5350 2800 50  0001 C CNN "Type"
 	1    5350 2800
 	-1   0    0    -1  
 $EndComp
@@ -88,6 +93,7 @@ F 0 "D109" H 4900 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5194 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4950 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5000 2425 50  0001 L TNN
+F 4 "SMD" H 4900 2800 50  0001 C CNN "Type"
 	1    4900 2800
 	-1   0    0    -1  
 $EndComp
@@ -101,6 +107,7 @@ F 0 "D105" H 3100 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3394 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3150 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3200 2425 50  0001 L TNN
+F 4 "SMD" H 3100 2800 50  0001 C CNN "Type"
 	1    3100 2800
 	-1   0    0    -1  
 $EndComp
@@ -114,6 +121,7 @@ F 0 "D104" H 2650 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2944 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2700 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 2425 50  0001 L TNN
+F 4 "SMD" H 2650 2800 50  0001 C CNN "Type"
 	1    2650 2800
 	-1   0    0    -1  
 $EndComp
@@ -127,6 +135,7 @@ F 0 "D103" H 2200 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2494 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2250 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2300 2425 50  0001 L TNN
+F 4 "SMD" H 2200 2800 50  0001 C CNN "Type"
 	1    2200 2800
 	-1   0    0    -1  
 $EndComp
@@ -140,6 +149,7 @@ F 0 "D102" H 1650 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 1944 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 2425 50  0001 L TNN
+F 4 "SMD" H 1650 2800 50  0001 C CNN "Type"
 	1    1650 2800
 	-1   0    0    -1  
 $EndComp
@@ -153,6 +163,7 @@ F 0 "D111" H 5800 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6094 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5850 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5900 2425 50  0001 L TNN
+F 4 "SMD" H 5800 2800 50  0001 C CNN "Type"
 	1    5800 2800
 	-1   0    0    -1  
 $EndComp
@@ -166,6 +177,7 @@ F 0 "D108" H 4450 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4744 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4500 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4550 2425 50  0001 L TNN
+F 4 "SMD" H 4450 2800 50  0001 C CNN "Type"
 	1    4450 2800
 	-1   0    0    -1  
 $EndComp
@@ -179,6 +191,7 @@ F 0 "D106" H 3550 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3844 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3600 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 2425 50  0001 L TNN
+F 4 "SMD" H 3550 2800 50  0001 C CNN "Type"
 	1    3550 2800
 	-1   0    0    -1  
 $EndComp
@@ -192,6 +205,7 @@ F 0 "D117" H 1650 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 1944 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 3025 50  0001 L TNN
+F 4 "SMD" H 1650 3400 50  0001 C CNN "Type"
 	1    1650 3400
 	1    0    0    -1  
 $EndComp
@@ -205,6 +219,7 @@ F 0 "D121" H 3550 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3844 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3600 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 3025 50  0001 L TNN
+F 4 "SMD" H 3550 3400 50  0001 C CNN "Type"
 	1    3550 3400
 	1    0    0    -1  
 $EndComp
@@ -218,6 +233,7 @@ F 0 "D122" H 4000 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4294 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4050 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4100 3025 50  0001 L TNN
+F 4 "SMD" H 4000 3400 50  0001 C CNN "Type"
 	1    4000 3400
 	1    0    0    -1  
 $EndComp
@@ -231,6 +247,7 @@ F 0 "D124" H 4900 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5194 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4950 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5000 3025 50  0001 L TNN
+F 4 "SMD" H 4900 3400 50  0001 C CNN "Type"
 	1    4900 3400
 	1    0    0    -1  
 $EndComp
@@ -244,6 +261,7 @@ F 0 "D125" H 5350 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5644 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5400 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 3025 50  0001 L TNN
+F 4 "SMD" H 5350 3400 50  0001 C CNN "Type"
 	1    5350 3400
 	1    0    0    -1  
 $EndComp
@@ -257,6 +275,7 @@ F 0 "D129" H 7150 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7444 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7200 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 3025 50  0001 L TNN
+F 4 "SMD" H 7150 3400 50  0001 C CNN "Type"
 	1    7150 3400
 	1    0    0    -1  
 $EndComp
@@ -270,6 +289,7 @@ F 0 "D130" H 7600 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7894 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7650 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7700 3025 50  0001 L TNN
+F 4 "SMD" H 7600 3400 50  0001 C CNN "Type"
 	1    7600 3400
 	1    0    0    -1  
 $EndComp
@@ -283,6 +303,7 @@ F 0 "D131" H 8050 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 8344 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8100 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8150 3025 50  0001 L TNN
+F 4 "SMD" H 8050 3400 50  0001 C CNN "Type"
 	1    8050 3400
 	1    0    0    -1  
 $EndComp
@@ -296,6 +317,7 @@ F 0 "D119" H 2650 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2944 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2700 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 3025 50  0001 L TNN
+F 4 "SMD" H 2650 3400 50  0001 C CNN "Type"
 	1    2650 3400
 	1    0    0    -1  
 $EndComp
@@ -309,6 +331,7 @@ F 0 "D123" H 4450 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4744 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4500 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4550 3025 50  0001 L TNN
+F 4 "SMD" H 4450 3400 50  0001 C CNN "Type"
 	1    4450 3400
 	1    0    0    -1  
 $EndComp
@@ -322,6 +345,7 @@ F 0 "D126" H 5800 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6094 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5850 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5900 3025 50  0001 L TNN
+F 4 "SMD" H 5800 3400 50  0001 C CNN "Type"
 	1    5800 3400
 	1    0    0    -1  
 $EndComp
@@ -335,6 +359,7 @@ F 0 "D120" H 3100 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3394 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3150 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3200 3025 50  0001 L TNN
+F 4 "SMD" H 3100 3400 50  0001 C CNN "Type"
 	1    3100 3400
 	1    0    0    -1  
 $EndComp
@@ -348,6 +373,7 @@ F 0 "D127" H 6250 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6544 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6300 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 3025 50  0001 L TNN
+F 4 "SMD" H 6250 3400 50  0001 C CNN "Type"
 	1    6250 3400
 	1    0    0    -1  
 $EndComp
@@ -361,6 +387,7 @@ F 0 "D128" H 6700 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6994 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6750 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6800 3025 50  0001 L TNN
+F 4 "SMD" H 6700 3400 50  0001 C CNN "Type"
 	1    6700 3400
 	1    0    0    -1  
 $EndComp
@@ -374,6 +401,7 @@ F 0 "D146" H 7600 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7894 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7650 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7700 3625 50  0001 L TNN
+F 4 "SMD" H 7600 4000 50  0001 C CNN "Type"
 	1    7600 4000
 	-1   0    0    -1  
 $EndComp
@@ -387,6 +415,7 @@ F 0 "D143" H 6250 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6544 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6300 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 3625 50  0001 L TNN
+F 4 "SMD" H 6250 4000 50  0001 C CNN "Type"
 	1    6250 4000
 	-1   0    0    -1  
 $EndComp
@@ -400,6 +429,7 @@ F 0 "D142" H 5800 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6094 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5850 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5900 3625 50  0001 L TNN
+F 4 "SMD" H 5800 4000 50  0001 C CNN "Type"
 	1    5800 4000
 	-1   0    0    -1  
 $EndComp
@@ -413,6 +443,7 @@ F 0 "D140" H 4900 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5194 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4950 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5000 3625 50  0001 L TNN
+F 4 "SMD" H 4900 4000 50  0001 C CNN "Type"
 	1    4900 4000
 	-1   0    0    -1  
 $EndComp
@@ -426,6 +457,7 @@ F 0 "D139" H 4450 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4744 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4500 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4550 3625 50  0001 L TNN
+F 4 "SMD" H 4450 4000 50  0001 C CNN "Type"
 	1    4450 4000
 	-1   0    0    -1  
 $EndComp
@@ -439,6 +471,7 @@ F 0 "D135" H 2650 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2944 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2700 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 3625 50  0001 L TNN
+F 4 "SMD" H 2650 4000 50  0001 C CNN "Type"
 	1    2650 4000
 	-1   0    0    -1  
 $EndComp
@@ -452,6 +485,7 @@ F 0 "D134" H 2200 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2494 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2250 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2300 3625 50  0001 L TNN
+F 4 "SMD" H 2200 4000 50  0001 C CNN "Type"
 	1    2200 4000
 	-1   0    0    -1  
 $EndComp
@@ -465,6 +499,7 @@ F 0 "D133" H 1650 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 1944 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 3625 50  0001 L TNN
+F 4 "SMD" H 1650 4000 50  0001 C CNN "Type"
 	1    1650 4000
 	-1   0    0    -1  
 $EndComp
@@ -478,6 +513,7 @@ F 0 "D132" H 8500 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 8794 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8550 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8600 3025 50  0001 L TNN
+F 4 "SMD" H 8500 3400 50  0001 C CNN "Type"
 	1    8500 3400
 	1    0    0    -1  
 $EndComp
@@ -491,6 +527,7 @@ F 0 "D145" H 7150 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7444 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7200 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 3625 50  0001 L TNN
+F 4 "SMD" H 7150 4000 50  0001 C CNN "Type"
 	1    7150 4000
 	-1   0    0    -1  
 $EndComp
@@ -504,6 +541,7 @@ F 0 "D141" H 5350 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5644 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5400 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 3625 50  0001 L TNN
+F 4 "SMD" H 5350 4000 50  0001 C CNN "Type"
 	1    5350 4000
 	-1   0    0    -1  
 $EndComp
@@ -517,6 +555,7 @@ F 0 "D138" H 4000 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4294 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4050 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4100 3625 50  0001 L TNN
+F 4 "SMD" H 4000 4000 50  0001 C CNN "Type"
 	1    4000 4000
 	-1   0    0    -1  
 $EndComp
@@ -530,6 +569,7 @@ F 0 "D144" H 6700 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6994 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6750 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6800 3625 50  0001 L TNN
+F 4 "SMD" H 6700 4000 50  0001 C CNN "Type"
 	1    6700 4000
 	-1   0    0    -1  
 $EndComp
@@ -543,6 +583,7 @@ F 0 "D137" H 3550 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3844 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3600 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 3625 50  0001 L TNN
+F 4 "SMD" H 3550 4000 50  0001 C CNN "Type"
 	1    3550 4000
 	-1   0    0    -1  
 $EndComp
@@ -556,6 +597,7 @@ F 0 "D136" H 3100 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3394 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3150 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3200 3625 50  0001 L TNN
+F 4 "SMD" H 3100 4000 50  0001 C CNN "Type"
 	1    3100 4000
 	-1   0    0    -1  
 $EndComp
@@ -569,6 +611,7 @@ F 0 "D147" H 8500 4200 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 8794 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8550 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8600 3625 50  0001 L TNN
+F 4 "SMD" H 8500 4000 50  0001 C CNN "Type"
 	1    8500 4000
 	-1   0    0    -1  
 $EndComp
@@ -582,6 +625,7 @@ F 0 "D148" H 1650 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 1944 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 4275 50  0001 L TNN
+F 4 "SMD" H 1650 4650 50  0001 C CNN "Type"
 	1    1650 4650
 	1    0    0    -1  
 $EndComp
@@ -595,6 +639,7 @@ F 0 "D151" H 3000 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3294 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3050 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3100 4275 50  0001 L TNN
+F 4 "SMD" H 3000 4650 50  0001 C CNN "Type"
 	1    3000 4650
 	1    0    0    -1  
 $EndComp
@@ -608,6 +653,7 @@ F 0 "D152" H 3450 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3744 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3500 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3550 4275 50  0001 L TNN
+F 4 "SMD" H 3450 4650 50  0001 C CNN "Type"
 	1    3450 4650
 	1    0    0    -1  
 $EndComp
@@ -621,6 +667,7 @@ F 0 "D154" H 4350 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4644 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4400 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4450 4275 50  0001 L TNN
+F 4 "SMD" H 4350 4650 50  0001 C CNN "Type"
 	1    4350 4650
 	1    0    0    -1  
 $EndComp
@@ -634,6 +681,7 @@ F 0 "D155" H 4800 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5094 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4850 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4900 4275 50  0001 L TNN
+F 4 "SMD" H 4800 4650 50  0001 C CNN "Type"
 	1    4800 4650
 	1    0    0    -1  
 $EndComp
@@ -647,6 +695,7 @@ F 0 "D159" H 6600 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6894 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6650 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6700 4275 50  0001 L TNN
+F 4 "SMD" H 6600 4650 50  0001 C CNN "Type"
 	1    6600 4650
 	1    0    0    -1  
 $EndComp
@@ -660,6 +709,7 @@ F 0 "D160" H 7050 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7344 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7100 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7150 4275 50  0001 L TNN
+F 4 "SMD" H 7050 4650 50  0001 C CNN "Type"
 	1    7050 4650
 	1    0    0    -1  
 $EndComp
@@ -673,6 +723,7 @@ F 0 "D161" H 7500 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7794 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7550 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7600 4275 50  0001 L TNN
+F 4 "SMD" H 7500 4650 50  0001 C CNN "Type"
 	1    7500 4650
 	1    0    0    -1  
 $EndComp
@@ -686,6 +737,7 @@ F 0 "D149" H 2100 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2394 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2150 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2200 4275 50  0001 L TNN
+F 4 "SMD" H 2100 4650 50  0001 C CNN "Type"
 	1    2100 4650
 	1    0    0    -1  
 $EndComp
@@ -699,6 +751,7 @@ F 0 "D153" H 3900 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4194 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3950 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 4275 50  0001 L TNN
+F 4 "SMD" H 3900 4650 50  0001 C CNN "Type"
 	1    3900 4650
 	1    0    0    -1  
 $EndComp
@@ -712,6 +765,7 @@ F 0 "D156" H 5250 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5544 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5300 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5350 4275 50  0001 L TNN
+F 4 "SMD" H 5250 4650 50  0001 C CNN "Type"
 	1    5250 4650
 	1    0    0    -1  
 $EndComp
@@ -725,6 +779,7 @@ F 0 "D157" H 5700 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5994 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5750 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5800 4275 50  0001 L TNN
+F 4 "SMD" H 5700 4650 50  0001 C CNN "Type"
 	1    5700 4650
 	1    0    0    -1  
 $EndComp
@@ -738,6 +793,7 @@ F 0 "D158" H 6150 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6444 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6200 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6250 4275 50  0001 L TNN
+F 4 "SMD" H 6150 4650 50  0001 C CNN "Type"
 	1    6150 4650
 	1    0    0    -1  
 $EndComp
@@ -751,6 +807,7 @@ F 0 "D170" H 4350 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4644 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4400 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4450 4825 50  0001 L TNN
+F 4 "SMD" H 4350 5200 50  0001 C CNN "Type"
 	1    4350 5200
 	-1   0    0    -1  
 $EndComp
@@ -764,6 +821,7 @@ F 0 "D169" H 3900 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4194 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3950 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 4825 50  0001 L TNN
+F 4 "SMD" H 3900 5200 50  0001 C CNN "Type"
 	1    3900 5200
 	-1   0    0    -1  
 $EndComp
@@ -777,6 +835,7 @@ F 0 "D165" H 2100 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2394 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2150 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2200 4825 50  0001 L TNN
+F 4 "SMD" H 2100 5200 50  0001 C CNN "Type"
 	1    2100 5200
 	-1   0    0    -1  
 $EndComp
@@ -790,6 +849,7 @@ F 0 "D164" H 1650 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 1944 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 4825 50  0001 L TNN
+F 4 "SMD" H 1650 5200 50  0001 C CNN "Type"
 	1    1650 5200
 	-1   0    0    -1  
 $EndComp
@@ -803,6 +863,7 @@ F 0 "D171" H 4800 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5094 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4850 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4900 4825 50  0001 L TNN
+F 4 "SMD" H 4800 5200 50  0001 C CNN "Type"
 	1    4800 5200
 	-1   0    0    -1  
 $EndComp
@@ -816,6 +877,7 @@ F 0 "D167" H 3000 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3294 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3050 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3100 4825 50  0001 L TNN
+F 4 "SMD" H 3000 5200 50  0001 C CNN "Type"
 	1    3000 5200
 	-1   0    0    -1  
 $EndComp
@@ -829,6 +891,7 @@ F 0 "D166" H 2550 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2844 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2600 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2650 4825 50  0001 L TNN
+F 4 "SMD" H 2550 5200 50  0001 C CNN "Type"
 	1    2550 5200
 	-1   0    0    -1  
 $EndComp
@@ -842,6 +905,7 @@ F 0 "D114" H 7150 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7444 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7200 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 2425 50  0001 L TNN
+F 4 "SMD" H 7150 2800 50  0001 C CNN "Type"
 	1    7150 2800
 	-1   0    0    -1  
 $EndComp
@@ -883,6 +947,7 @@ F 0 "D116" H 8050 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 8344 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8100 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8150 2425 50  0001 L TNN
+F 4 "SMD" H 8050 2800 50  0001 C CNN "Type"
 	1    8050 2800
 	-1   0    0    -1  
 $EndComp
@@ -898,6 +963,7 @@ F 0 "D97" H 6600 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6894 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6650 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6700 1875 50  0001 L TNN
+F 4 "SMD" H 6600 2250 50  0001 C CNN "Type"
 	1    6600 2250
 	1    0    0    -1  
 $EndComp
@@ -911,6 +977,7 @@ F 0 "D96" H 6150 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 6444 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6200 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6250 1875 50  0001 L TNN
+F 4 "SMD" H 6150 2250 50  0001 C CNN "Type"
 	1    6150 2250
 	1    0    0    -1  
 $EndComp
@@ -924,6 +991,7 @@ F 0 "D89" H 3000 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3294 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3050 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3100 1875 50  0001 L TNN
+F 4 "SMD" H 3000 2250 50  0001 C CNN "Type"
 	1    3000 2250
 	1    0    0    -1  
 $EndComp
@@ -937,6 +1005,7 @@ F 0 "D95" H 5700 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5994 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5750 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5800 1875 50  0001 L TNN
+F 4 "SMD" H 5700 2250 50  0001 C CNN "Type"
 	1    5700 2250
 	1    0    0    -1  
 $EndComp
@@ -950,6 +1019,7 @@ F 0 "D92" H 4350 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4644 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4400 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4450 1875 50  0001 L TNN
+F 4 "SMD" H 4350 2250 50  0001 C CNN "Type"
 	1    4350 2250
 	1    0    0    -1  
 $EndComp
@@ -963,6 +1033,7 @@ F 0 "D88" H 2550 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2844 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2600 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2650 1875 50  0001 L TNN
+F 4 "SMD" H 2550 2250 50  0001 C CNN "Type"
 	1    2550 2250
 	1    0    0    -1  
 $EndComp
@@ -976,6 +1047,7 @@ F 0 "D100" H 7950 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 8244 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8000 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8050 1875 50  0001 L TNN
+F 4 "SMD" H 7950 2250 50  0001 C CNN "Type"
 	1    7950 2250
 	1    0    0    -1  
 $EndComp
@@ -989,6 +1061,7 @@ F 0 "D99" H 7500 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7794 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7550 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7600 1875 50  0001 L TNN
+F 4 "SMD" H 7500 2250 50  0001 C CNN "Type"
 	1    7500 2250
 	1    0    0    -1  
 $EndComp
@@ -1002,6 +1075,7 @@ F 0 "D98" H 7050 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 7344 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7100 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7150 1875 50  0001 L TNN
+F 4 "SMD" H 7050 2250 50  0001 C CNN "Type"
 	1    7050 2250
 	1    0    0    -1  
 $EndComp
@@ -1015,6 +1089,7 @@ F 0 "D94" H 5250 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5544 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5300 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5350 1875 50  0001 L TNN
+F 4 "SMD" H 5250 2250 50  0001 C CNN "Type"
 	1    5250 2250
 	1    0    0    -1  
 $EndComp
@@ -1028,6 +1103,7 @@ F 0 "D93" H 4800 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5094 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4850 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4900 1875 50  0001 L TNN
+F 4 "SMD" H 4800 2250 50  0001 C CNN "Type"
 	1    4800 2250
 	1    0    0    -1  
 $EndComp
@@ -1041,6 +1117,7 @@ F 0 "D91" H 3900 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4194 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3950 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 1875 50  0001 L TNN
+F 4 "SMD" H 3900 2250 50  0001 C CNN "Type"
 	1    3900 2250
 	1    0    0    -1  
 $EndComp
@@ -1054,6 +1131,7 @@ F 0 "D86" H 1650 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 1944 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 1875 50  0001 L TNN
+F 4 "SMD" H 1650 2250 50  0001 C CNN "Type"
 	1    1650 2250
 	1    0    0    -1  
 $EndComp
@@ -1067,6 +1145,7 @@ F 0 "D87" H 2100 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2394 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2150 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2200 1875 50  0001 L TNN
+F 4 "SMD" H 2100 2250 50  0001 C CNN "Type"
 	1    2100 2250
 	1    0    0    -1  
 $EndComp
@@ -1080,6 +1159,7 @@ F 0 "D107" H 4000 3000 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 4294 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4050 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4100 2425 50  0001 L TNN
+F 4 "SMD" H 4000 2800 50  0001 C CNN "Type"
 	1    4000 2800
 	-1   0    0    -1  
 $EndComp
@@ -1093,6 +1173,7 @@ F 0 "D118" H 2200 3600 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2494 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2250 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2300 3025 50  0001 L TNN
+F 4 "SMD" H 2200 3400 50  0001 C CNN "Type"
 	1    2200 3400
 	1    0    0    -1  
 $EndComp
@@ -1106,6 +1187,7 @@ F 0 "D150" H 2550 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 2844 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2600 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2650 4275 50  0001 L TNN
+F 4 "SMD" H 2550 4650 50  0001 C CNN "Type"
 	1    2550 4650
 	1    0    0    -1  
 $EndComp
@@ -1119,6 +1201,7 @@ F 0 "D168" H 3450 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3744 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3500 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3550 4825 50  0001 L TNN
+F 4 "SMD" H 3450 5200 50  0001 C CNN "Type"
 	1    3450 5200
 	-1   0    0    -1  
 $EndComp
@@ -1132,6 +1215,7 @@ F 0 "D163" H 8500 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 8794 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8550 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8600 4275 50  0001 L TNN
+F 4 "SMD" H 8500 4650 50  0001 C CNN "Type"
 	1    8500 4650
 	1    0    0    -1  
 $EndComp
@@ -1145,6 +1229,7 @@ F 0 "D172" H 5250 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5544 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5300 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5350 4825 50  0001 L TNN
+F 4 "SMD" H 5250 5200 50  0001 C CNN "Type"
 	1    5250 5200
 	-1   0    0    -1  
 $EndComp
@@ -1158,6 +1243,7 @@ F 0 "D173" H 5700 5400 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 5994 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5750 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5800 4825 50  0001 L TNN
+F 4 "SMD" H 5700 5200 50  0001 C CNN "Type"
 	1    5700 5200
 	-1   0    0    -1  
 $EndComp
@@ -1220,8 +1306,18 @@ AR Path="/62469E97/61C679CB" Ref="C10"  Part="1"
 F 0 "C10" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1234,8 +1330,18 @@ AR Path="/62469E97/61E2E6EC" Ref="C11"  Part="1"
 F 0 "C11" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1248,8 +1354,18 @@ AR Path="/62469E97/61E666A4" Ref="C12"  Part="1"
 F 0 "C12" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1262,8 +1378,18 @@ AR Path="/62469E97/61E9E696" Ref="C13"  Part="1"
 F 0 "C13" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1276,8 +1402,18 @@ AR Path="/62469E97/61ED6678" Ref="C14"  Part="1"
 F 0 "C14" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1290,8 +1426,18 @@ AR Path="/62469E97/61F0E5DA" Ref="C15"  Part="1"
 F 0 "C15" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1304,8 +1450,18 @@ AR Path="/62469E97/61F465A6" Ref="C16"  Part="1"
 F 0 "C16" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1318,8 +1474,18 @@ AR Path="/62469E97/61F7E4F0" Ref="C17"  Part="1"
 F 0 "C17" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1332,8 +1498,18 @@ AR Path="/62469E97/61FB6368" Ref="C18"  Part="1"
 F 0 "C18" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1346,8 +1522,18 @@ AR Path="/62469E97/61FEE3D8" Ref="C19"  Part="1"
 F 0 "C19" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1360,8 +1546,18 @@ AR Path="/62469E97/620262D0" Ref="C20"  Part="1"
 F 0 "C20" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1374,8 +1570,18 @@ AR Path="/62469E97/6205E3A6" Ref="C21"  Part="1"
 F 0 "C21" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1388,8 +1594,18 @@ AR Path="/62469E97/620A0A65" Ref="C22"  Part="1"
 F 0 "C22" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1402,8 +1618,18 @@ AR Path="/62469E97/620A0A6C" Ref="C23"  Part="1"
 F 0 "C23" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1416,8 +1642,18 @@ AR Path="/62469E97/620A0A73" Ref="C24"  Part="1"
 F 0 "C24" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1430,8 +1666,18 @@ AR Path="/62469E97/620A0A7A" Ref="C25"  Part="1"
 F 0 "C25" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1444,8 +1690,18 @@ AR Path="/62469E97/620A0A81" Ref="C26"  Part="1"
 F 0 "C26" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1458,8 +1714,18 @@ AR Path="/62469E97/620A0A88" Ref="C27"  Part="1"
 F 0 "C27" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1472,8 +1738,18 @@ AR Path="/62469E97/620A0A8F" Ref="C28"  Part="1"
 F 0 "C28" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1486,8 +1762,18 @@ AR Path="/62469E97/620A0A96" Ref="C29"  Part="1"
 F 0 "C29" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1500,8 +1786,18 @@ AR Path="/62469E97/620A0A9D" Ref="C30"  Part="1"
 F 0 "C30" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1514,8 +1810,18 @@ AR Path="/62469E97/620A0AA4" Ref="C31"  Part="1"
 F 0 "C31" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1528,8 +1834,18 @@ AR Path="/62469E97/620A0AAB" Ref="C32"  Part="1"
 F 0 "C32" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1542,8 +1858,18 @@ AR Path="/62469E97/620A0AB2" Ref="C33"  Part="1"
 F 0 "C33" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1557,8 +1883,18 @@ AR Path="/62469E97/6227336D" Ref="C96"  Part="1"
 F 0 "C96" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1571,8 +1907,18 @@ AR Path="/62469E97/6223B59F" Ref="C95"  Part="1"
 F 0 "C95" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1585,8 +1931,18 @@ AR Path="/62469E97/62203527" Ref="C94"  Part="1"
 F 0 "C94" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1599,8 +1955,18 @@ AR Path="/62469E97/621CA530" Ref="C93"  Part="1"
 F 0 "C93" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1613,8 +1979,18 @@ AR Path="/62469E97/621CA529" Ref="C92"  Part="1"
 F 0 "C92" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1627,8 +2003,18 @@ AR Path="/62469E97/621CA522" Ref="C91"  Part="1"
 F 0 "C91" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1641,8 +2027,18 @@ AR Path="/62469E97/621CA51B" Ref="C90"  Part="1"
 F 0 "C90" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1655,8 +2051,18 @@ AR Path="/62469E97/621CA514" Ref="C89"  Part="1"
 F 0 "C89" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1669,8 +2075,18 @@ AR Path="/62469E97/621CA50D" Ref="C88"  Part="1"
 F 0 "C88" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1683,8 +2099,18 @@ AR Path="/62469E97/621CA506" Ref="C87"  Part="1"
 F 0 "C87" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1697,8 +2123,18 @@ AR Path="/62469E97/621CA4FF" Ref="C86"  Part="1"
 F 0 "C86" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1711,8 +2147,18 @@ AR Path="/62469E97/621CA4F8" Ref="C85"  Part="1"
 F 0 "C85" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1725,8 +2171,18 @@ AR Path="/62469E97/621CA4F1" Ref="C84"  Part="1"
 F 0 "C84" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1739,8 +2195,18 @@ AR Path="/62469E97/621CA4EA" Ref="C83"  Part="1"
 F 0 "C83" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1753,8 +2219,18 @@ AR Path="/62469E97/621CA4E3" Ref="C82"  Part="1"
 F 0 "C82" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1767,8 +2243,18 @@ AR Path="/62469E97/6218CB36" Ref="C81"  Part="1"
 F 0 "C81" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1781,8 +2267,18 @@ AR Path="/62469E97/6218CB2F" Ref="C80"  Part="1"
 F 0 "C80" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1795,8 +2291,18 @@ AR Path="/62469E97/6218CB28" Ref="C79"  Part="1"
 F 0 "C79" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1809,8 +2315,18 @@ AR Path="/62469E97/6218CB21" Ref="C78"  Part="1"
 F 0 "C78" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1823,8 +2339,18 @@ AR Path="/62469E97/6218CB1A" Ref="C77"  Part="1"
 F 0 "C77" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1837,8 +2363,18 @@ AR Path="/62469E97/6218CB13" Ref="C76"  Part="1"
 F 0 "C76" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1851,8 +2387,18 @@ AR Path="/62469E97/6218CB0C" Ref="C75"  Part="1"
 F 0 "C75" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1865,8 +2411,18 @@ AR Path="/62469E97/6218CB05" Ref="C74"  Part="1"
 F 0 "C74" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1879,8 +2435,18 @@ AR Path="/62469E97/6218CAFE" Ref="C73"  Part="1"
 F 0 "C73" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1893,8 +2459,18 @@ AR Path="/62469E97/6218CAF7" Ref="C72"  Part="1"
 F 0 "C72" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1907,8 +2483,18 @@ AR Path="/62469E97/6218CAF0" Ref="C71"  Part="1"
 F 0 "C71" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1921,8 +2507,18 @@ AR Path="/62469E97/6218CAE9" Ref="C70"  Part="1"
 F 0 "C70" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1935,8 +2531,18 @@ AR Path="/62469E97/62151690" Ref="C69"  Part="1"
 F 0 "C69" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1949,8 +2555,18 @@ AR Path="/62469E97/62151689" Ref="C68"  Part="1"
 F 0 "C68" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1963,8 +2579,18 @@ AR Path="/62469E97/62151682" Ref="C67"  Part="1"
 F 0 "C67" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1977,8 +2603,18 @@ AR Path="/62469E97/6215167B" Ref="C66"  Part="1"
 F 0 "C66" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -1991,8 +2627,18 @@ AR Path="/62469E97/62151674" Ref="C65"  Part="1"
 F 0 "C65" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2005,8 +2651,18 @@ AR Path="/62469E97/6215166D" Ref="C64"  Part="1"
 F 0 "C64" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2019,8 +2675,18 @@ AR Path="/62469E97/62151666" Ref="C63"  Part="1"
 F 0 "C63" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2033,8 +2699,18 @@ AR Path="/62469E97/6215165F" Ref="C62"  Part="1"
 F 0 "C62" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2047,8 +2723,18 @@ AR Path="/62469E97/62151658" Ref="C61"  Part="1"
 F 0 "C61" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2061,8 +2747,18 @@ AR Path="/62469E97/62151651" Ref="C60"  Part="1"
 F 0 "C60" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2075,8 +2771,18 @@ AR Path="/62469E97/6215164A" Ref="C59"  Part="1"
 F 0 "C59" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2089,8 +2795,18 @@ AR Path="/62469E97/62151643" Ref="C58"  Part="1"
 F 0 "C58" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2103,8 +2819,18 @@ AR Path="/62469E97/62117A0C" Ref="C57"  Part="1"
 F 0 "C57" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2117,8 +2843,18 @@ AR Path="/62469E97/62117A05" Ref="C56"  Part="1"
 F 0 "C56" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2131,8 +2867,18 @@ AR Path="/62469E97/621179FE" Ref="C55"  Part="1"
 F 0 "C55" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2145,8 +2891,18 @@ AR Path="/62469E97/621179F7" Ref="C54"  Part="1"
 F 0 "C54" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2159,8 +2915,18 @@ AR Path="/62469E97/621179F0" Ref="C53"  Part="1"
 F 0 "C53" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2173,8 +2939,18 @@ AR Path="/62469E97/621179E9" Ref="C52"  Part="1"
 F 0 "C52" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2187,8 +2963,18 @@ AR Path="/62469E97/621179E2" Ref="C51"  Part="1"
 F 0 "C51" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2201,8 +2987,18 @@ AR Path="/62469E97/621179DB" Ref="C50"  Part="1"
 F 0 "C50" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2215,8 +3011,18 @@ AR Path="/62469E97/621179D4" Ref="C49"  Part="1"
 F 0 "C49" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2229,8 +3035,18 @@ AR Path="/62469E97/621179CD" Ref="C48"  Part="1"
 F 0 "C48" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2243,8 +3059,18 @@ AR Path="/62469E97/621179C6" Ref="C47"  Part="1"
 F 0 "C47" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2257,8 +3083,18 @@ AR Path="/62469E97/621179BF" Ref="C46"  Part="1"
 F 0 "C46" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2271,8 +3107,18 @@ AR Path="/62469E97/620DAABE" Ref="C45"  Part="1"
 F 0 "C45" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2285,8 +3131,18 @@ AR Path="/62469E97/620DAAB7" Ref="C44"  Part="1"
 F 0 "C44" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2299,8 +3155,18 @@ AR Path="/62469E97/620DAAB0" Ref="C43"  Part="1"
 F 0 "C43" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2313,8 +3179,18 @@ AR Path="/62469E97/620DAAA9" Ref="C42"  Part="1"
 F 0 "C42" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2327,8 +3203,18 @@ AR Path="/62469E97/620DAAA2" Ref="C41"  Part="1"
 F 0 "C41" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2341,8 +3227,18 @@ AR Path="/62469E97/620DAA9B" Ref="C40"  Part="1"
 F 0 "C40" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2355,8 +3251,18 @@ AR Path="/62469E97/620DAA94" Ref="C39"  Part="1"
 F 0 "C39" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2369,8 +3275,18 @@ AR Path="/62469E97/620DAA8D" Ref="C38"  Part="1"
 F 0 "C38" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2383,8 +3299,18 @@ AR Path="/62469E97/620DAA86" Ref="C37"  Part="1"
 F 0 "C37" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2397,8 +3323,18 @@ AR Path="/62469E97/620DAA7F" Ref="C36"  Part="1"
 F 0 "C36" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2411,8 +3347,18 @@ AR Path="/62469E97/620DAA78" Ref="C35"  Part="1"
 F 0 "C35" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2425,8 +3371,18 @@ AR Path="/62469E97/620DAA71" Ref="C34"  Part="1"
 F 0 "C34" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2462,8 +3418,18 @@ AR Path="/62469E97/61E273D9" Ref="C97"  Part="1"
 F 0 "C97" H 1715 6196 50  0001 L CNN
 F 1 "100nF" H 1715 6105 50  0001 L CNN
 F 2 "Capacitor_SMD:C_0402_1005Metric" H 1638 6000 50  0001 C CNN
-F 3 "~" H 1600 6150 50  0001 C CNN
+F 3 "https://datasheet.lcsc.com/lcsc/1810241328_YAGEO-CC0402KRX5R7BB104_C106204.pdf" H 1600 6150 50  0001 C CNN
 F 4 "C106204" H 1600 6150 50  0001 C CNN "LCSC"
+F 5 "16V 100nF X5R ±10% 0402 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS" H 1600 6150 50  0001 C CNN "Description"
+F 6 "YAGEO" H 1600 6150 50  0001 C CNN "Manufaturer"
+F 7 "CC0402KRX5R7BB104" H 1600 6150 50  0001 C CNN "MfgPart"
+F 8 "0402" H 1600 6150 50  0001 C CNN "Package"
+F 9 "SMD" H 1600 6150 50  0001 C CNN "Type"
+F 10 "0.10" H 1600 6150 50  0001 C CNN "ExtPrice"
+F 11 "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html" H 1600 6150 50  0001 C CNN "Link"
+F 12 "100" H 1600 6150 50  0001 C CNN "Minimum"
+F 13 "100" H 1600 6150 50  0001 C CNN "Multiples"
+F 14 "0.0010" H 1600 6150 50  0001 C CNN "Unit Price"
 	1    1600 6150
 	1    0    0    -1  
 $EndComp
@@ -2477,6 +3443,7 @@ F 0 "D90" H 3450 2450 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 3744 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3500 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3550 1875 50  0001 L TNN
+F 4 "SMD" H 3450 2250 50  0001 C CNN "Type"
 	1    3450 2250
 	1    0    0    -1  
 $EndComp
@@ -3394,6 +4361,7 @@ F 0 "D162" H 7950 4850 50  0000 L CNN
 F 1 "SK6812MINI-compact" H 8244 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8000 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8050 4275 50  0001 L TNN
+F 4 "SMD" H 7950 4650 50  0001 C CNN "Type"
 	1    7950 4650
 	1    0    0    -1  
 $EndComp
