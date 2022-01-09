@@ -1,0 +1,13 @@
+Item #,Designator,Value,Description,Package,Type,LCSC-Part,Qty,Lots (1brd),Lots (2brd),Lots (3brd),Lots (4brd),Lots (5brd),Total (1brd),Total (2brd),Total (3brd),Total (4brd),Total (5brd),Link
+1,"C1-C6, C10-C97",100nF,,402,SMD,C106204,94,1,2,3,4,5,0.1,0.2,0.3,0.4,0.5,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0402KRX5R7BB104_C106204.html
+2,C7-C8,22pF,,402,SMD,C1555,2,1,1,1,1,1,0.11,0.11,0.11,0.11,0.11,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0402CG220J500NT_C1555.html
+3,C9,1uF,,402,SMD,C92755,1,1,1,1,1,1,0.26,0.26,0.26,0.26,0.26,https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Taiyo-Yuden-EMK105BJ105KV-F_C92755.html
+4,D1-D85,1N4148,,SOD-323,SMD,C129870,85,2,4,6,7,9,1.28,2.56,3.84,4.48,5.76,https://lcsc.com/product-detail/Switching-Diode_DIYI-Elec-Tech-1N4148WS_C129870.html
+5,D86-D173,SK6812MINI-compact,,,SMD,,88,1,2,1(300),1(300) + 1(100),1(300) + 2(100),10.4,20.8,25.61,36.1,46.41,https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1
+6,P1,USB_C_Plug_USB2.0,,SMD,SMD,C2894898,1,1,1,1,1,1,0.57,0.57,0.57,0.57,0.57,https://lcsc.com/product-detail/USB-Connectors_HCTL-HC-TYPE-C-16P-01B_C2894898.html
+7,R1-R4,5.1K,,402,SMD,C25905,4,1,1,1,1,1,0.07,0.07,0.07,0.07,0.07,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGF5101TCE_C25905.html
+8,R5,300,,402,SMD,C25159,1,1,1,1,1,1,0.07,0.07,0.07,0.07,0.07,https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0402WGJ0301TCE_C25159.html
+9,U1,ATmega32U4-MU,,QFN-44_7x7x05P,SMD,C112161,1,1,2,3,4,5,9.36,18.72,28.08,37.44,46.8,https://lcsc.com/product-detail/ATMEL-AVR_Microchip-Tech-ATMEGA32U4-MU_C112161.html
+10,Y1,16MHz,,SMD3225-4P,SMD,C13738,1,1,1,1,1,1,0.44,0.44,0.44,0.44,0.44,https://lcsc.com/product-detail/Crystals_Yangxing-Tech-X322516MLB4SI_C13738.html
+,,,,,,,,,,,,Total,22.66,43.8,59.35,79.94,100.99,
+,,,,,,,,,,,,Total per board,22.66,21.9,19.78333333,19.985,20.198,

@@ -24,6 +24,10 @@ F 1 "SK6812MINI-compact" H 8694 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8450 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8500 1875 50  0001 L TNN
 F 4 "SMD" H 8400 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 8400 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 8400 2250 50  0001 C CNN "Link"
+F 7 "100" H 8400 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 8400 2250 50  0001 C CNN "Multiples"
 	1    8400 2250
 	1    0    0    -1  
 $EndComp
@@ -38,6 +42,10 @@ F 1 "SK6812MINI-compact" H 7894 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7650 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7700 2425 50  0001 L TNN
 F 4 "SMD" H 7600 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 7600 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7600 2800 50  0001 C CNN "Link"
+F 7 "100" H 7600 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 7600 2800 50  0001 C CNN "Multiples"
 	1    7600 2800
 	-1   0    0    -1  
 $EndComp
@@ -52,6 +60,10 @@ F 1 "SK6812MINI-compact" H 6994 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6750 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6800 2425 50  0001 L TNN
 F 4 "SMD" H 6700 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 6700 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6700 2800 50  0001 C CNN "Link"
+F 7 "100" H 6700 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 6700 2800 50  0001 C CNN "Multiples"
 	1    6700 2800
 	-1   0    0    -1  
 $EndComp
@@ -66,6 +78,10 @@ F 1 "SK6812MINI-compact" H 6544 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6300 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 2425 50  0001 L TNN
 F 4 "SMD" H 6250 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 6250 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6250 2800 50  0001 C CNN "Link"
+F 7 "100" H 6250 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 6250 2800 50  0001 C CNN "Multiples"
 	1    6250 2800
 	-1   0    0    -1  
 $EndComp
@@ -80,6 +96,10 @@ F 1 "SK6812MINI-compact" H 5644 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5400 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 2425 50  0001 L TNN
 F 4 "SMD" H 5350 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 5350 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5350 2800 50  0001 C CNN "Link"
+F 7 "100" H 5350 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 5350 2800 50  0001 C CNN "Multiples"
 	1    5350 2800
 	-1   0    0    -1  
 $EndComp
@@ -94,6 +114,10 @@ F 1 "SK6812MINI-compact" H 5194 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4950 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5000 2425 50  0001 L TNN
 F 4 "SMD" H 4900 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 4900 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4900 2800 50  0001 C CNN "Link"
+F 7 "100" H 4900 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 4900 2800 50  0001 C CNN "Multiples"
 	1    4900 2800
 	-1   0    0    -1  
 $EndComp
@@ -108,6 +132,10 @@ F 1 "SK6812MINI-compact" H 3394 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3150 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3200 2425 50  0001 L TNN
 F 4 "SMD" H 3100 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 3100 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3100 2800 50  0001 C CNN "Link"
+F 7 "100" H 3100 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 3100 2800 50  0001 C CNN "Multiples"
 	1    3100 2800
 	-1   0    0    -1  
 $EndComp
@@ -122,6 +150,10 @@ F 1 "SK6812MINI-compact" H 2944 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2700 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 2425 50  0001 L TNN
 F 4 "SMD" H 2650 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 2650 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2650 2800 50  0001 C CNN "Link"
+F 7 "100" H 2650 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 2650 2800 50  0001 C CNN "Multiples"
 	1    2650 2800
 	-1   0    0    -1  
 $EndComp
@@ -136,6 +168,10 @@ F 1 "SK6812MINI-compact" H 2494 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2250 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2300 2425 50  0001 L TNN
 F 4 "SMD" H 2200 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 2200 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2200 2800 50  0001 C CNN "Link"
+F 7 "100" H 2200 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 2200 2800 50  0001 C CNN "Multiples"
 	1    2200 2800
 	-1   0    0    -1  
 $EndComp
@@ -150,6 +186,10 @@ F 1 "SK6812MINI-compact" H 1944 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 2425 50  0001 L TNN
 F 4 "SMD" H 1650 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 1650 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 1650 2800 50  0001 C CNN "Link"
+F 7 "100" H 1650 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 1650 2800 50  0001 C CNN "Multiples"
 	1    1650 2800
 	-1   0    0    -1  
 $EndComp
@@ -164,6 +204,10 @@ F 1 "SK6812MINI-compact" H 6094 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5850 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5900 2425 50  0001 L TNN
 F 4 "SMD" H 5800 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 5800 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5800 2800 50  0001 C CNN "Link"
+F 7 "100" H 5800 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 5800 2800 50  0001 C CNN "Multiples"
 	1    5800 2800
 	-1   0    0    -1  
 $EndComp
@@ -178,6 +222,10 @@ F 1 "SK6812MINI-compact" H 4744 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4500 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4550 2425 50  0001 L TNN
 F 4 "SMD" H 4450 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 4450 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4450 2800 50  0001 C CNN "Link"
+F 7 "100" H 4450 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 4450 2800 50  0001 C CNN "Multiples"
 	1    4450 2800
 	-1   0    0    -1  
 $EndComp
@@ -192,6 +240,10 @@ F 1 "SK6812MINI-compact" H 3844 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3600 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 2425 50  0001 L TNN
 F 4 "SMD" H 3550 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 3550 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3550 2800 50  0001 C CNN "Link"
+F 7 "100" H 3550 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 3550 2800 50  0001 C CNN "Multiples"
 	1    3550 2800
 	-1   0    0    -1  
 $EndComp
@@ -206,6 +258,10 @@ F 1 "SK6812MINI-compact" H 1944 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 3025 50  0001 L TNN
 F 4 "SMD" H 1650 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 1650 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 1650 3400 50  0001 C CNN "Link"
+F 7 "100" H 1650 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 1650 3400 50  0001 C CNN "Multiples"
 	1    1650 3400
 	1    0    0    -1  
 $EndComp
@@ -220,6 +276,10 @@ F 1 "SK6812MINI-compact" H 3844 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3600 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 3025 50  0001 L TNN
 F 4 "SMD" H 3550 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 3550 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3550 3400 50  0001 C CNN "Link"
+F 7 "100" H 3550 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 3550 3400 50  0001 C CNN "Multiples"
 	1    3550 3400
 	1    0    0    -1  
 $EndComp
@@ -234,6 +294,10 @@ F 1 "SK6812MINI-compact" H 4294 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4050 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4100 3025 50  0001 L TNN
 F 4 "SMD" H 4000 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 4000 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4000 3400 50  0001 C CNN "Link"
+F 7 "100" H 4000 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 4000 3400 50  0001 C CNN "Multiples"
 	1    4000 3400
 	1    0    0    -1  
 $EndComp
@@ -248,6 +312,10 @@ F 1 "SK6812MINI-compact" H 5194 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4950 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5000 3025 50  0001 L TNN
 F 4 "SMD" H 4900 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 4900 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4900 3400 50  0001 C CNN "Link"
+F 7 "100" H 4900 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 4900 3400 50  0001 C CNN "Multiples"
 	1    4900 3400
 	1    0    0    -1  
 $EndComp
@@ -262,6 +330,10 @@ F 1 "SK6812MINI-compact" H 5644 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5400 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 3025 50  0001 L TNN
 F 4 "SMD" H 5350 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 5350 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5350 3400 50  0001 C CNN "Link"
+F 7 "100" H 5350 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 5350 3400 50  0001 C CNN "Multiples"
 	1    5350 3400
 	1    0    0    -1  
 $EndComp
@@ -276,6 +348,10 @@ F 1 "SK6812MINI-compact" H 7444 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7200 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 3025 50  0001 L TNN
 F 4 "SMD" H 7150 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 7150 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7150 3400 50  0001 C CNN "Link"
+F 7 "100" H 7150 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 7150 3400 50  0001 C CNN "Multiples"
 	1    7150 3400
 	1    0    0    -1  
 $EndComp
@@ -290,6 +366,10 @@ F 1 "SK6812MINI-compact" H 7894 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7650 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7700 3025 50  0001 L TNN
 F 4 "SMD" H 7600 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 7600 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7600 3400 50  0001 C CNN "Link"
+F 7 "100" H 7600 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 7600 3400 50  0001 C CNN "Multiples"
 	1    7600 3400
 	1    0    0    -1  
 $EndComp
@@ -304,6 +384,10 @@ F 1 "SK6812MINI-compact" H 8344 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8100 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8150 3025 50  0001 L TNN
 F 4 "SMD" H 8050 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 8050 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 8050 3400 50  0001 C CNN "Link"
+F 7 "100" H 8050 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 8050 3400 50  0001 C CNN "Multiples"
 	1    8050 3400
 	1    0    0    -1  
 $EndComp
@@ -318,6 +402,10 @@ F 1 "SK6812MINI-compact" H 2944 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2700 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 3025 50  0001 L TNN
 F 4 "SMD" H 2650 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 2650 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2650 3400 50  0001 C CNN "Link"
+F 7 "100" H 2650 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 2650 3400 50  0001 C CNN "Multiples"
 	1    2650 3400
 	1    0    0    -1  
 $EndComp
@@ -332,6 +420,10 @@ F 1 "SK6812MINI-compact" H 4744 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4500 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4550 3025 50  0001 L TNN
 F 4 "SMD" H 4450 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 4450 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4450 3400 50  0001 C CNN "Link"
+F 7 "100" H 4450 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 4450 3400 50  0001 C CNN "Multiples"
 	1    4450 3400
 	1    0    0    -1  
 $EndComp
@@ -346,6 +438,10 @@ F 1 "SK6812MINI-compact" H 6094 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5850 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5900 3025 50  0001 L TNN
 F 4 "SMD" H 5800 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 5800 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5800 3400 50  0001 C CNN "Link"
+F 7 "100" H 5800 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 5800 3400 50  0001 C CNN "Multiples"
 	1    5800 3400
 	1    0    0    -1  
 $EndComp
@@ -360,6 +456,10 @@ F 1 "SK6812MINI-compact" H 3394 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3150 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3200 3025 50  0001 L TNN
 F 4 "SMD" H 3100 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 3100 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3100 3400 50  0001 C CNN "Link"
+F 7 "100" H 3100 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 3100 3400 50  0001 C CNN "Multiples"
 	1    3100 3400
 	1    0    0    -1  
 $EndComp
@@ -374,6 +474,10 @@ F 1 "SK6812MINI-compact" H 6544 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6300 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 3025 50  0001 L TNN
 F 4 "SMD" H 6250 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 6250 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6250 3400 50  0001 C CNN "Link"
+F 7 "100" H 6250 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 6250 3400 50  0001 C CNN "Multiples"
 	1    6250 3400
 	1    0    0    -1  
 $EndComp
@@ -388,6 +492,10 @@ F 1 "SK6812MINI-compact" H 6994 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6750 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6800 3025 50  0001 L TNN
 F 4 "SMD" H 6700 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 6700 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6700 3400 50  0001 C CNN "Link"
+F 7 "100" H 6700 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 6700 3400 50  0001 C CNN "Multiples"
 	1    6700 3400
 	1    0    0    -1  
 $EndComp
@@ -402,6 +510,10 @@ F 1 "SK6812MINI-compact" H 7894 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7650 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7700 3625 50  0001 L TNN
 F 4 "SMD" H 7600 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 7600 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7600 4000 50  0001 C CNN "Link"
+F 7 "100" H 7600 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 7600 4000 50  0001 C CNN "Multiples"
 	1    7600 4000
 	-1   0    0    -1  
 $EndComp
@@ -416,6 +528,10 @@ F 1 "SK6812MINI-compact" H 6544 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6300 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6350 3625 50  0001 L TNN
 F 4 "SMD" H 6250 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 6250 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6250 4000 50  0001 C CNN "Link"
+F 7 "100" H 6250 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 6250 4000 50  0001 C CNN "Multiples"
 	1    6250 4000
 	-1   0    0    -1  
 $EndComp
@@ -430,6 +546,10 @@ F 1 "SK6812MINI-compact" H 6094 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5850 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5900 3625 50  0001 L TNN
 F 4 "SMD" H 5800 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 5800 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5800 4000 50  0001 C CNN "Link"
+F 7 "100" H 5800 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 5800 4000 50  0001 C CNN "Multiples"
 	1    5800 4000
 	-1   0    0    -1  
 $EndComp
@@ -444,6 +564,10 @@ F 1 "SK6812MINI-compact" H 5194 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4950 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5000 3625 50  0001 L TNN
 F 4 "SMD" H 4900 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 4900 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4900 4000 50  0001 C CNN "Link"
+F 7 "100" H 4900 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 4900 4000 50  0001 C CNN "Multiples"
 	1    4900 4000
 	-1   0    0    -1  
 $EndComp
@@ -458,6 +582,10 @@ F 1 "SK6812MINI-compact" H 4744 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4500 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4550 3625 50  0001 L TNN
 F 4 "SMD" H 4450 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 4450 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4450 4000 50  0001 C CNN "Link"
+F 7 "100" H 4450 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 4450 4000 50  0001 C CNN "Multiples"
 	1    4450 4000
 	-1   0    0    -1  
 $EndComp
@@ -472,6 +600,10 @@ F 1 "SK6812MINI-compact" H 2944 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2700 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2750 3625 50  0001 L TNN
 F 4 "SMD" H 2650 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 2650 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2650 4000 50  0001 C CNN "Link"
+F 7 "100" H 2650 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 2650 4000 50  0001 C CNN "Multiples"
 	1    2650 4000
 	-1   0    0    -1  
 $EndComp
@@ -486,6 +618,10 @@ F 1 "SK6812MINI-compact" H 2494 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2250 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2300 3625 50  0001 L TNN
 F 4 "SMD" H 2200 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 2200 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2200 4000 50  0001 C CNN "Link"
+F 7 "100" H 2200 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 2200 4000 50  0001 C CNN "Multiples"
 	1    2200 4000
 	-1   0    0    -1  
 $EndComp
@@ -500,6 +636,10 @@ F 1 "SK6812MINI-compact" H 1944 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 3625 50  0001 L TNN
 F 4 "SMD" H 1650 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 1650 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 1650 4000 50  0001 C CNN "Link"
+F 7 "100" H 1650 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 1650 4000 50  0001 C CNN "Multiples"
 	1    1650 4000
 	-1   0    0    -1  
 $EndComp
@@ -514,6 +654,10 @@ F 1 "SK6812MINI-compact" H 8794 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8550 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8600 3025 50  0001 L TNN
 F 4 "SMD" H 8500 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 8500 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 8500 3400 50  0001 C CNN "Link"
+F 7 "100" H 8500 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 8500 3400 50  0001 C CNN "Multiples"
 	1    8500 3400
 	1    0    0    -1  
 $EndComp
@@ -528,6 +672,10 @@ F 1 "SK6812MINI-compact" H 7444 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7200 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 3625 50  0001 L TNN
 F 4 "SMD" H 7150 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 7150 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7150 4000 50  0001 C CNN "Link"
+F 7 "100" H 7150 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 7150 4000 50  0001 C CNN "Multiples"
 	1    7150 4000
 	-1   0    0    -1  
 $EndComp
@@ -542,6 +690,10 @@ F 1 "SK6812MINI-compact" H 5644 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5400 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 3625 50  0001 L TNN
 F 4 "SMD" H 5350 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 5350 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5350 4000 50  0001 C CNN "Link"
+F 7 "100" H 5350 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 5350 4000 50  0001 C CNN "Multiples"
 	1    5350 4000
 	-1   0    0    -1  
 $EndComp
@@ -556,6 +708,10 @@ F 1 "SK6812MINI-compact" H 4294 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4050 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4100 3625 50  0001 L TNN
 F 4 "SMD" H 4000 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 4000 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4000 4000 50  0001 C CNN "Link"
+F 7 "100" H 4000 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 4000 4000 50  0001 C CNN "Multiples"
 	1    4000 4000
 	-1   0    0    -1  
 $EndComp
@@ -570,6 +726,10 @@ F 1 "SK6812MINI-compact" H 6994 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6750 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6800 3625 50  0001 L TNN
 F 4 "SMD" H 6700 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 6700 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6700 4000 50  0001 C CNN "Link"
+F 7 "100" H 6700 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 6700 4000 50  0001 C CNN "Multiples"
 	1    6700 4000
 	-1   0    0    -1  
 $EndComp
@@ -584,6 +744,10 @@ F 1 "SK6812MINI-compact" H 3844 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3600 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 3625 50  0001 L TNN
 F 4 "SMD" H 3550 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 3550 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3550 4000 50  0001 C CNN "Link"
+F 7 "100" H 3550 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 3550 4000 50  0001 C CNN "Multiples"
 	1    3550 4000
 	-1   0    0    -1  
 $EndComp
@@ -598,6 +762,10 @@ F 1 "SK6812MINI-compact" H 3394 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3150 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3200 3625 50  0001 L TNN
 F 4 "SMD" H 3100 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 3100 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3100 4000 50  0001 C CNN "Link"
+F 7 "100" H 3100 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 3100 4000 50  0001 C CNN "Multiples"
 	1    3100 4000
 	-1   0    0    -1  
 $EndComp
@@ -612,6 +780,10 @@ F 1 "SK6812MINI-compact" H 8794 3955 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8550 3700 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8600 3625 50  0001 L TNN
 F 4 "SMD" H 8500 4000 50  0001 C CNN "Type"
+F 5 "10.40" H 8500 4000 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 8500 4000 50  0001 C CNN "Link"
+F 7 "100" H 8500 4000 50  0001 C CNN "Minimum"
+F 8 "100" H 8500 4000 50  0001 C CNN "Multiples"
 	1    8500 4000
 	-1   0    0    -1  
 $EndComp
@@ -626,6 +798,10 @@ F 1 "SK6812MINI-compact" H 1944 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 4275 50  0001 L TNN
 F 4 "SMD" H 1650 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 1650 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 1650 4650 50  0001 C CNN "Link"
+F 7 "100" H 1650 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 1650 4650 50  0001 C CNN "Multiples"
 	1    1650 4650
 	1    0    0    -1  
 $EndComp
@@ -640,6 +816,10 @@ F 1 "SK6812MINI-compact" H 3294 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3050 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3100 4275 50  0001 L TNN
 F 4 "SMD" H 3000 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 3000 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3000 4650 50  0001 C CNN "Link"
+F 7 "100" H 3000 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 3000 4650 50  0001 C CNN "Multiples"
 	1    3000 4650
 	1    0    0    -1  
 $EndComp
@@ -654,6 +834,10 @@ F 1 "SK6812MINI-compact" H 3744 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3500 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3550 4275 50  0001 L TNN
 F 4 "SMD" H 3450 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 3450 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3450 4650 50  0001 C CNN "Link"
+F 7 "100" H 3450 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 3450 4650 50  0001 C CNN "Multiples"
 	1    3450 4650
 	1    0    0    -1  
 $EndComp
@@ -668,6 +852,10 @@ F 1 "SK6812MINI-compact" H 4644 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4400 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4450 4275 50  0001 L TNN
 F 4 "SMD" H 4350 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 4350 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4350 4650 50  0001 C CNN "Link"
+F 7 "100" H 4350 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 4350 4650 50  0001 C CNN "Multiples"
 	1    4350 4650
 	1    0    0    -1  
 $EndComp
@@ -682,6 +870,10 @@ F 1 "SK6812MINI-compact" H 5094 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4850 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4900 4275 50  0001 L TNN
 F 4 "SMD" H 4800 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 4800 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4800 4650 50  0001 C CNN "Link"
+F 7 "100" H 4800 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 4800 4650 50  0001 C CNN "Multiples"
 	1    4800 4650
 	1    0    0    -1  
 $EndComp
@@ -696,6 +888,10 @@ F 1 "SK6812MINI-compact" H 6894 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6650 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6700 4275 50  0001 L TNN
 F 4 "SMD" H 6600 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 6600 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6600 4650 50  0001 C CNN "Link"
+F 7 "100" H 6600 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 6600 4650 50  0001 C CNN "Multiples"
 	1    6600 4650
 	1    0    0    -1  
 $EndComp
@@ -710,6 +906,10 @@ F 1 "SK6812MINI-compact" H 7344 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7100 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7150 4275 50  0001 L TNN
 F 4 "SMD" H 7050 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 7050 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7050 4650 50  0001 C CNN "Link"
+F 7 "100" H 7050 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 7050 4650 50  0001 C CNN "Multiples"
 	1    7050 4650
 	1    0    0    -1  
 $EndComp
@@ -724,6 +924,10 @@ F 1 "SK6812MINI-compact" H 7794 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7550 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7600 4275 50  0001 L TNN
 F 4 "SMD" H 7500 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 7500 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7500 4650 50  0001 C CNN "Link"
+F 7 "100" H 7500 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 7500 4650 50  0001 C CNN "Multiples"
 	1    7500 4650
 	1    0    0    -1  
 $EndComp
@@ -738,6 +942,10 @@ F 1 "SK6812MINI-compact" H 2394 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2150 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2200 4275 50  0001 L TNN
 F 4 "SMD" H 2100 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 2100 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2100 4650 50  0001 C CNN "Link"
+F 7 "100" H 2100 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 2100 4650 50  0001 C CNN "Multiples"
 	1    2100 4650
 	1    0    0    -1  
 $EndComp
@@ -752,6 +960,10 @@ F 1 "SK6812MINI-compact" H 4194 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3950 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 4275 50  0001 L TNN
 F 4 "SMD" H 3900 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 3900 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3900 4650 50  0001 C CNN "Link"
+F 7 "100" H 3900 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 3900 4650 50  0001 C CNN "Multiples"
 	1    3900 4650
 	1    0    0    -1  
 $EndComp
@@ -766,6 +978,10 @@ F 1 "SK6812MINI-compact" H 5544 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5300 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5350 4275 50  0001 L TNN
 F 4 "SMD" H 5250 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 5250 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5250 4650 50  0001 C CNN "Link"
+F 7 "100" H 5250 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 5250 4650 50  0001 C CNN "Multiples"
 	1    5250 4650
 	1    0    0    -1  
 $EndComp
@@ -780,6 +996,10 @@ F 1 "SK6812MINI-compact" H 5994 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5750 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5800 4275 50  0001 L TNN
 F 4 "SMD" H 5700 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 5700 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5700 4650 50  0001 C CNN "Link"
+F 7 "100" H 5700 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 5700 4650 50  0001 C CNN "Multiples"
 	1    5700 4650
 	1    0    0    -1  
 $EndComp
@@ -794,6 +1014,10 @@ F 1 "SK6812MINI-compact" H 6444 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6200 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6250 4275 50  0001 L TNN
 F 4 "SMD" H 6150 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 6150 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6150 4650 50  0001 C CNN "Link"
+F 7 "100" H 6150 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 6150 4650 50  0001 C CNN "Multiples"
 	1    6150 4650
 	1    0    0    -1  
 $EndComp
@@ -808,6 +1032,10 @@ F 1 "SK6812MINI-compact" H 4644 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4400 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4450 4825 50  0001 L TNN
 F 4 "SMD" H 4350 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 4350 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4350 5200 50  0001 C CNN "Link"
+F 7 "100" H 4350 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 4350 5200 50  0001 C CNN "Multiples"
 	1    4350 5200
 	-1   0    0    -1  
 $EndComp
@@ -822,6 +1050,10 @@ F 1 "SK6812MINI-compact" H 4194 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3950 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 4825 50  0001 L TNN
 F 4 "SMD" H 3900 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 3900 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3900 5200 50  0001 C CNN "Link"
+F 7 "100" H 3900 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 3900 5200 50  0001 C CNN "Multiples"
 	1    3900 5200
 	-1   0    0    -1  
 $EndComp
@@ -836,6 +1068,10 @@ F 1 "SK6812MINI-compact" H 2394 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2150 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2200 4825 50  0001 L TNN
 F 4 "SMD" H 2100 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 2100 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2100 5200 50  0001 C CNN "Link"
+F 7 "100" H 2100 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 2100 5200 50  0001 C CNN "Multiples"
 	1    2100 5200
 	-1   0    0    -1  
 $EndComp
@@ -850,6 +1086,10 @@ F 1 "SK6812MINI-compact" H 1944 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 4825 50  0001 L TNN
 F 4 "SMD" H 1650 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 1650 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 1650 5200 50  0001 C CNN "Link"
+F 7 "100" H 1650 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 1650 5200 50  0001 C CNN "Multiples"
 	1    1650 5200
 	-1   0    0    -1  
 $EndComp
@@ -864,6 +1104,10 @@ F 1 "SK6812MINI-compact" H 5094 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4850 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4900 4825 50  0001 L TNN
 F 4 "SMD" H 4800 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 4800 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4800 5200 50  0001 C CNN "Link"
+F 7 "100" H 4800 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 4800 5200 50  0001 C CNN "Multiples"
 	1    4800 5200
 	-1   0    0    -1  
 $EndComp
@@ -878,6 +1122,10 @@ F 1 "SK6812MINI-compact" H 3294 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3050 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3100 4825 50  0001 L TNN
 F 4 "SMD" H 3000 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 3000 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3000 5200 50  0001 C CNN "Link"
+F 7 "100" H 3000 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 3000 5200 50  0001 C CNN "Multiples"
 	1    3000 5200
 	-1   0    0    -1  
 $EndComp
@@ -892,6 +1140,10 @@ F 1 "SK6812MINI-compact" H 2844 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2600 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2650 4825 50  0001 L TNN
 F 4 "SMD" H 2550 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 2550 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2550 5200 50  0001 C CNN "Link"
+F 7 "100" H 2550 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 2550 5200 50  0001 C CNN "Multiples"
 	1    2550 5200
 	-1   0    0    -1  
 $EndComp
@@ -906,6 +1158,10 @@ F 1 "SK6812MINI-compact" H 7444 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7200 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 2425 50  0001 L TNN
 F 4 "SMD" H 7150 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 7150 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7150 2800 50  0001 C CNN "Link"
+F 7 "100" H 7150 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 7150 2800 50  0001 C CNN "Multiples"
 	1    7150 2800
 	-1   0    0    -1  
 $EndComp
@@ -948,6 +1204,10 @@ F 1 "SK6812MINI-compact" H 8344 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8100 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8150 2425 50  0001 L TNN
 F 4 "SMD" H 8050 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 8050 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 8050 2800 50  0001 C CNN "Link"
+F 7 "100" H 8050 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 8050 2800 50  0001 C CNN "Multiples"
 	1    8050 2800
 	-1   0    0    -1  
 $EndComp
@@ -964,6 +1224,10 @@ F 1 "SK6812MINI-compact" H 6894 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6650 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6700 1875 50  0001 L TNN
 F 4 "SMD" H 6600 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 6600 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6600 2250 50  0001 C CNN "Link"
+F 7 "100" H 6600 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 6600 2250 50  0001 C CNN "Multiples"
 	1    6600 2250
 	1    0    0    -1  
 $EndComp
@@ -978,6 +1242,10 @@ F 1 "SK6812MINI-compact" H 6444 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 6200 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6250 1875 50  0001 L TNN
 F 4 "SMD" H 6150 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 6150 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 6150 2250 50  0001 C CNN "Link"
+F 7 "100" H 6150 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 6150 2250 50  0001 C CNN "Multiples"
 	1    6150 2250
 	1    0    0    -1  
 $EndComp
@@ -992,6 +1260,10 @@ F 1 "SK6812MINI-compact" H 3294 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3050 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3100 1875 50  0001 L TNN
 F 4 "SMD" H 3000 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 3000 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3000 2250 50  0001 C CNN "Link"
+F 7 "100" H 3000 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 3000 2250 50  0001 C CNN "Multiples"
 	1    3000 2250
 	1    0    0    -1  
 $EndComp
@@ -1006,6 +1278,10 @@ F 1 "SK6812MINI-compact" H 5994 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5750 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5800 1875 50  0001 L TNN
 F 4 "SMD" H 5700 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 5700 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5700 2250 50  0001 C CNN "Link"
+F 7 "100" H 5700 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 5700 2250 50  0001 C CNN "Multiples"
 	1    5700 2250
 	1    0    0    -1  
 $EndComp
@@ -1020,6 +1296,10 @@ F 1 "SK6812MINI-compact" H 4644 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4400 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4450 1875 50  0001 L TNN
 F 4 "SMD" H 4350 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 4350 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4350 2250 50  0001 C CNN "Link"
+F 7 "100" H 4350 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 4350 2250 50  0001 C CNN "Multiples"
 	1    4350 2250
 	1    0    0    -1  
 $EndComp
@@ -1034,6 +1314,10 @@ F 1 "SK6812MINI-compact" H 2844 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2600 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2650 1875 50  0001 L TNN
 F 4 "SMD" H 2550 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 2550 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2550 2250 50  0001 C CNN "Link"
+F 7 "100" H 2550 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 2550 2250 50  0001 C CNN "Multiples"
 	1    2550 2250
 	1    0    0    -1  
 $EndComp
@@ -1048,6 +1332,10 @@ F 1 "SK6812MINI-compact" H 8244 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8000 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8050 1875 50  0001 L TNN
 F 4 "SMD" H 7950 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 7950 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7950 2250 50  0001 C CNN "Link"
+F 7 "100" H 7950 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 7950 2250 50  0001 C CNN "Multiples"
 	1    7950 2250
 	1    0    0    -1  
 $EndComp
@@ -1062,6 +1350,10 @@ F 1 "SK6812MINI-compact" H 7794 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7550 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7600 1875 50  0001 L TNN
 F 4 "SMD" H 7500 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 7500 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7500 2250 50  0001 C CNN "Link"
+F 7 "100" H 7500 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 7500 2250 50  0001 C CNN "Multiples"
 	1    7500 2250
 	1    0    0    -1  
 $EndComp
@@ -1076,6 +1368,10 @@ F 1 "SK6812MINI-compact" H 7344 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 7100 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7150 1875 50  0001 L TNN
 F 4 "SMD" H 7050 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 7050 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7050 2250 50  0001 C CNN "Link"
+F 7 "100" H 7050 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 7050 2250 50  0001 C CNN "Multiples"
 	1    7050 2250
 	1    0    0    -1  
 $EndComp
@@ -1090,6 +1386,10 @@ F 1 "SK6812MINI-compact" H 5544 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5300 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5350 1875 50  0001 L TNN
 F 4 "SMD" H 5250 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 5250 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5250 2250 50  0001 C CNN "Link"
+F 7 "100" H 5250 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 5250 2250 50  0001 C CNN "Multiples"
 	1    5250 2250
 	1    0    0    -1  
 $EndComp
@@ -1104,6 +1404,10 @@ F 1 "SK6812MINI-compact" H 5094 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4850 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4900 1875 50  0001 L TNN
 F 4 "SMD" H 4800 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 4800 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4800 2250 50  0001 C CNN "Link"
+F 7 "100" H 4800 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 4800 2250 50  0001 C CNN "Multiples"
 	1    4800 2250
 	1    0    0    -1  
 $EndComp
@@ -1118,6 +1422,10 @@ F 1 "SK6812MINI-compact" H 4194 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3950 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4000 1875 50  0001 L TNN
 F 4 "SMD" H 3900 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 3900 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3900 2250 50  0001 C CNN "Link"
+F 7 "100" H 3900 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 3900 2250 50  0001 C CNN "Multiples"
 	1    3900 2250
 	1    0    0    -1  
 $EndComp
@@ -1132,6 +1440,10 @@ F 1 "SK6812MINI-compact" H 1944 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 1700 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 1750 1875 50  0001 L TNN
 F 4 "SMD" H 1650 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 1650 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 1650 2250 50  0001 C CNN "Link"
+F 7 "100" H 1650 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 1650 2250 50  0001 C CNN "Multiples"
 	1    1650 2250
 	1    0    0    -1  
 $EndComp
@@ -1146,6 +1458,10 @@ F 1 "SK6812MINI-compact" H 2394 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2150 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2200 1875 50  0001 L TNN
 F 4 "SMD" H 2100 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 2100 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2100 2250 50  0001 C CNN "Link"
+F 7 "100" H 2100 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 2100 2250 50  0001 C CNN "Multiples"
 	1    2100 2250
 	1    0    0    -1  
 $EndComp
@@ -1160,6 +1476,10 @@ F 1 "SK6812MINI-compact" H 4294 2755 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 4050 2500 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4100 2425 50  0001 L TNN
 F 4 "SMD" H 4000 2800 50  0001 C CNN "Type"
+F 5 "10.40" H 4000 2800 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 4000 2800 50  0001 C CNN "Link"
+F 7 "100" H 4000 2800 50  0001 C CNN "Minimum"
+F 8 "100" H 4000 2800 50  0001 C CNN "Multiples"
 	1    4000 2800
 	-1   0    0    -1  
 $EndComp
@@ -1174,6 +1494,10 @@ F 1 "SK6812MINI-compact" H 2494 3355 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2250 3100 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2300 3025 50  0001 L TNN
 F 4 "SMD" H 2200 3400 50  0001 C CNN "Type"
+F 5 "10.40" H 2200 3400 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2200 3400 50  0001 C CNN "Link"
+F 7 "100" H 2200 3400 50  0001 C CNN "Minimum"
+F 8 "100" H 2200 3400 50  0001 C CNN "Multiples"
 	1    2200 3400
 	1    0    0    -1  
 $EndComp
@@ -1188,6 +1512,10 @@ F 1 "SK6812MINI-compact" H 2844 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 2600 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2650 4275 50  0001 L TNN
 F 4 "SMD" H 2550 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 2550 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 2550 4650 50  0001 C CNN "Link"
+F 7 "100" H 2550 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 2550 4650 50  0001 C CNN "Multiples"
 	1    2550 4650
 	1    0    0    -1  
 $EndComp
@@ -1202,6 +1530,10 @@ F 1 "SK6812MINI-compact" H 3744 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3500 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3550 4825 50  0001 L TNN
 F 4 "SMD" H 3450 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 3450 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3450 5200 50  0001 C CNN "Link"
+F 7 "100" H 3450 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 3450 5200 50  0001 C CNN "Multiples"
 	1    3450 5200
 	-1   0    0    -1  
 $EndComp
@@ -1216,6 +1548,10 @@ F 1 "SK6812MINI-compact" H 8794 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8550 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8600 4275 50  0001 L TNN
 F 4 "SMD" H 8500 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 8500 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 8500 4650 50  0001 C CNN "Link"
+F 7 "100" H 8500 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 8500 4650 50  0001 C CNN "Multiples"
 	1    8500 4650
 	1    0    0    -1  
 $EndComp
@@ -1230,6 +1566,10 @@ F 1 "SK6812MINI-compact" H 5544 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5300 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5350 4825 50  0001 L TNN
 F 4 "SMD" H 5250 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 5250 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5250 5200 50  0001 C CNN "Link"
+F 7 "100" H 5250 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 5250 5200 50  0001 C CNN "Multiples"
 	1    5250 5200
 	-1   0    0    -1  
 $EndComp
@@ -1244,6 +1584,10 @@ F 1 "SK6812MINI-compact" H 5994 5155 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 5750 4900 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5800 4825 50  0001 L TNN
 F 4 "SMD" H 5700 5200 50  0001 C CNN "Type"
+F 5 "10.40" H 5700 5200 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 5700 5200 50  0001 C CNN "Link"
+F 7 "100" H 5700 5200 50  0001 C CNN "Minimum"
+F 8 "100" H 5700 5200 50  0001 C CNN "Multiples"
 	1    5700 5200
 	-1   0    0    -1  
 $EndComp
@@ -3444,6 +3788,10 @@ F 1 "SK6812MINI-compact" H 3744 2205 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 3500 1950 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3550 1875 50  0001 L TNN
 F 4 "SMD" H 3450 2250 50  0001 C CNN "Type"
+F 5 "10.40" H 3450 2250 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 3450 2250 50  0001 C CNN "Link"
+F 7 "100" H 3450 2250 50  0001 C CNN "Minimum"
+F 8 "100" H 3450 2250 50  0001 C CNN "Multiples"
 	1    3450 2250
 	1    0    0    -1  
 $EndComp
@@ -4362,6 +4710,10 @@ F 1 "SK6812MINI-compact" H 8244 4605 50  0001 L CNN
 F 2 "Custom:SK6812Mini-e_passtrough" H 8000 4350 50  0001 L TNN
 F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8050 4275 50  0001 L TNN
 F 4 "SMD" H 7950 4650 50  0001 C CNN "Type"
+F 5 "10.40" H 7950 4650 50  0001 C CNN "ExtPrice"
+F 6 "https://es.aliexpress.com/item/4000475685852.html?spm=a2g0o.productlist.0.0.56bd7b82une37r&algo_pvid=75dd8efb-200c-4695-a07b-13e45a3904d8&algo_exp_id=75dd8efb-200c-4695-a07b-13e45a3904d8-1" H 7950 4650 50  0001 C CNN "Link"
+F 7 "100" H 7950 4650 50  0001 C CNN "Minimum"
+F 8 "100" H 7950 4650 50  0001 C CNN "Multiples"
 	1    7950 4650
 	1    0    0    -1  
 $EndComp
